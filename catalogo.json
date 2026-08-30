@@ -1,10 +1,25 @@
 {
   "version": 1,
-  "canciones": [
+  "actualizado": "2026-08-30",
+  "albumes": [
     {
-      "titulo": "Llano y Leyenda",
+      "id": "album_criollo_001",
+      "titulo": "Álbum Criollo",
       "artista": "Jesús Moreno",
-      "audio": "https://drive.google.com/uc?export=download&id=1ylIGEHGqquLkpCkdp7dG-W97GZlDHhHK"
+      "imagen": "assets/images/clasicos/Jesus_Moreno.png",
+      "descripcion": "Selección de música criolla venezolana.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "id": "jesus_moreno_llano_y_leyenda",
+          "titulo": "Llano y Leyenda",
+          "audio": "https://drive.google.com/uc?export=download&id=1ylIGEHGqquLkpCkdp7dG-W97GZlDHhHK",
+          "duracion": null,
+          "numero": 1
+        }
+      ]
     }
-  ]
+  ],
+  "sencillos": []
 }

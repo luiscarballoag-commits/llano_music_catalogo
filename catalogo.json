@@ -93,6 +93,30 @@
       "imagen": "assets/images/clasicos/Cristobal_Jimenez.png",
       "audio": "https://drive.google.com/uc?export=download&id=1MXGDqEh2xt4YSeugHCXtoCZ9GoiXZKzw",
       "duracion": null
+    },
+    {
+      "id": "jesus_quintero_serenata_en_el_tranquero",
+      "titulo": "Serenata en el Tranquero",
+      "artista": "Jesús Quintero",
+      "imagen": "assets/images/clasicos/Jesus_Quintero.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1rVDtt36_fp8Rgyt9AZwufz5eKCdKZ6i2",
+      "duracion": null
+    },
+    {
+      "id": "jesus_quintero_te_quiero_y_tu_no_lo_sabes",
+      "titulo": "Te Quiero y Tú No Lo Sabes",
+      "artista": "Jesús Quintero",
+      "imagen": "assets/images/clasicos/Jesus_Quintero.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1PTQsVnjnW8E7FQnI9QjMV78Mc9T1DNRs",
+      "duracion": null
+    },
+    {
+      "id": "jesus_quintero_un_desprecio_criminal",
+      "titulo": "Un Desprecio Criminal",
+      "artista": "Jesús Quintero",
+      "imagen": "assets/images/clasicos/Jesus_Quintero.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1SKhIvc8qdTHoWMfxH_M-P3EZojtNZ4kW",
+      "duracion": null
     }
   ]
 }

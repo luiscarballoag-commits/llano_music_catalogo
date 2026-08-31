@@ -21,5 +21,30 @@
       ]
     }
   ],
-  "sencillos": []
+  "sencillos": [
+    {
+      "id": "jorge_guerrero_las_tardes_grises_de_junio",
+      "titulo": "Las Tardes Grises de Junio",
+      "artista": "Jorge Guerrero",
+      "imagen": "assets/images/clasicos/Jorge_Guerrero.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1qRF_0HSbDjj_f4MlJdinl3EbBuGsQI-_",
+      "duracion": null
+    },
+    {
+      "id": "jorge_guerrero_enguayabao_y_pal_pueblo",
+      "titulo": "Enguayabao y pal Pueblo",
+      "artista": "Jorge Guerrero",
+      "imagen": "assets/images/clasicos/Jorge_Guerrero.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1MaWnk1_2FbPsNPW5_f1Y_jkr4lMpJg3L",
+      "duracion": null
+    },
+    {
+      "id": "jorge_guerrero_el_peon_enamorado",
+      "titulo": "El Peón Enamorado",
+      "artista": "Jorge Guerrero",
+      "imagen": "assets/images/clasicos/Jorge_Guerrero.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1pIwIVWMN3Ruw9Co54KVJQEfKMyrVpvc-",
+      "duracion": null
+    }
+  ]
 }

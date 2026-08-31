@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-08-30",
+  "actualizado": "2026-08-31",
   "albumes": [
     {
       "id": "album_criollo_001",
@@ -44,6 +44,54 @@
       "artista": "Jorge Guerrero",
       "imagen": "assets/images/clasicos/Jorge_Guerrero.png",
       "audio": "https://drive.google.com/uc?export=download&id=1pIwIVWMN3Ruw9Co54KVJQEfKMyrVpvc-",
+      "duracion": null
+    },
+    {
+      "id": "cristobal_jimenez_bella_las_once",
+      "titulo": "Bella Las Once",
+      "artista": "Cristóbal Jiménez",
+      "imagen": "assets/images/clasicos/Cristobal_Jimenez.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1Zc76ocVy9VFZbVH8kK8HPmEU-s3jNy4J",
+      "duracion": null
+    },
+    {
+      "id": "cristobal_jimenez_la_intrusa",
+      "titulo": "La Intrusa",
+      "artista": "Cristóbal Jiménez",
+      "imagen": "assets/images/clasicos/Cristobal_Jimenez.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1MZNT5lIbac8JYdI85PL22TpDQH_dcwX0",
+      "duracion": null
+    },
+    {
+      "id": "cristobal_jimenez_la_catira_sabanera",
+      "titulo": "La Catira Sabanera",
+      "artista": "Cristóbal Jiménez",
+      "imagen": "assets/images/clasicos/Cristobal_Jimenez.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1e7wxLEcrkv3TlQQvwHe8UErrLwW8ClJ7",
+      "duracion": null
+    },
+    {
+      "id": "cristobal_jimenez_milagro_de_amor",
+      "titulo": "Milagro de Amor",
+      "artista": "Cristóbal Jiménez",
+      "imagen": "assets/images/clasicos/Cristobal_Jimenez.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1XcZpEOsnc2hNAsHJb-zeQxQ-HrXDCmOB",
+      "duracion": null
+    },
+    {
+      "id": "cristobal_jimenez_un_regalo_a_mi_llanura",
+      "titulo": "Un Regalo A Mi Llanura",
+      "artista": "Cristóbal Jiménez",
+      "imagen": "assets/images/clasicos/Cristobal_Jimenez.png",
+      "audio": "https://drive.google.com/uc?export=download&id=16JF3rP6XYvq4QkJbrjC7bisDkWj-c_gN",
+      "duracion": null
+    },
+    {
+      "id": "cristobal_jimenez_una_casita_bella",
+      "titulo": "Una Casita Bella",
+      "artista": "Cristóbal Jiménez",
+      "imagen": "assets/images/clasicos/Cristobal_Jimenez.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1MXGDqEh2xt4YSeugHCXtoCZ9GoiXZKzw",
       "duracion": null
     }
   ]

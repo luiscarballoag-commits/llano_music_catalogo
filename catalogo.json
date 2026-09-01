@@ -4,19 +4,85 @@
   "albumes": [
     {
       "id": "album_criollo_001",
-      "titulo": "Álbum Criollo",
+      "titulo": "Llano y Leyenda",
       "artista": "Jesús Moreno",
-      "imagen": "assets/images/clasicos/Jesus_Moreno.png",
+      "imagen": "https://drive.google.com/uc?export=download&id=1JwfpnU1PWmVudzjtG5_BfMEVwggmZ9QJ",
       "descripcion": "Selección de música criolla venezolana.",
       "genero": "Música Llanera",
       "anio": 2026,
       "canciones": [
         {
+          "id": "jesus_moreno_sentimiento_apureno",
+          "titulo": "Sentimiento Apureño",
+          "audio": "https://drive.google.com/uc?export=download&id=1gVY0HqbeCSlMwYllqvdWrN8GjF5tmHvn",
+          "numero": 1
+        },
+        {
+          "id": "jesus_moreno_el_beso_que_te_robe",
+          "titulo": "El Beso Que Te Robé",
+          "audio": "https://drive.google.com/uc?export=download&id=1knADJNFUh1bqoF35ru0b_xcgSWqFfray",
+          "numero": 2
+        },
+        {
+          "id": "jesus_moreno_por_un_despecho",
+          "titulo": "Por Un Despecho",
+          "audio": "https://drive.google.com/uc?export=download&id=17k-FoQVebOOtb_-B-va4rzFdUAb_BGM7",
+          "numero": 3
+        },
+        {
+          "id": "jesus_moreno_amor_querido",
+          "titulo": "Amor Querido",
+          "audio": "https://drive.google.com/uc?export=download&id=1wv6sdnvz86Daw9gYbUkKudWv6SPVJg0y",
+          "numero": 4
+        },
+        {
+          "id": "jesus_moreno_pensativo",
+          "titulo": "Pensativo",
+          "audio": "https://drive.google.com/uc?export=download&id=1OzP7-7-76gPhnpNfLFC4lbkxxHuEAQhg",
+          "numero": 5
+        },
+        {
+          "id": "jesus_moreno_recordando_al_poeta",
+          "titulo": "Recordando Al Poeta",
+          "audio": "https://drive.google.com/uc?export=download&id=1Pk_-D_n6DRAu5DRRF-uDIUAc1bDJ15-F",
+          "numero": 6
+        },
+        {
+          "id": "jesus_moreno_fiesta_en_elorza",
+          "titulo": "Fiesta En Elorza",
+          "audio": "https://drive.google.com/uc?export=download&id=1nhsyC516ahsbj06D__jEWmvEIs8nhgUK",
+          "numero": 7
+        },
+        {
           "id": "jesus_moreno_llano_y_leyenda",
           "titulo": "Llano y Leyenda",
           "audio": "https://drive.google.com/uc?export=download&id=1ylIGEHGqquLkpCkdp7dG-W97GZlDHhHK",
           "duracion": null,
-          "numero": 1
+          "numero": 8
+        },
+        {
+          "id": "jesus_moreno_llanero_siente_y_lamanta",
+          "titulo": "Llanero Siente Y Lamenta",
+          "audio": "https://drive.google.com/uc?export=download&id=16QiZGtyRNjgu3HChlke0MX5zJ72D_khS",
+          "numero": 9
+        },
+        {
+          "id": "jesus_moreno_amor_en_silencio",
+          "titulo": "Amor En Silencio",
+          "audio": "https://drive.google.com/uc?export=download&id=140a-ww7N6fVdEIZ2X7dIt3E-acxwvjJK",
+          "numero": 10
+        },
+        {
+          "id": "jesus_moreno_llano_lindo",
+          "titulo": "Llano Lindo",
+          "audio": "https://drive.google.com/uc?export=download&id=1KK2DWxsINBy-jNp4FOGw72F80sXdVI0u",
+          "numero": 11
+        },
+        {
+          "id": "jesus_moreno_achaguas_me_vio_nacer",
+          "titulo": "Achaguas Me Vio Nacer",
+          "audio": "https://drive.google.com/uc?export=download&id=1SUl0YefytgDoRAlisUgKX6cUoIH_Oj2u",
+          "numero": 12
         }
       ]
     }

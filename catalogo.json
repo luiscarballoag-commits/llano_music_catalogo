@@ -117,6 +117,14 @@
       "imagen": "assets/images/clasicos/Jesus_Quintero.png",
       "audio": "https://drive.google.com/uc?export=download&id=1SKhIvc8qdTHoWMfxH_M-P3EZojtNZ4kW",
       "duracion": null
+    },
+    {
+      "id": "simon_aular_mi_viejo_es_inolvidable",
+      "titulo": "Mi Viejo Es Inolvidable",
+      "artista": "Simón Aular",
+      "imagen": "https://drive.google.com/uc?export=download&id=11lvVTS3v71gU9OObPB2-KdRisOoe9hgY",
+      "audio": "https://drive.google.com/uc?export=download&id=1Xnm1Qn2H-LbrS5O4M6VTTW-okL2-79Tm",
+      "duracion": null
     }
   ]
 }

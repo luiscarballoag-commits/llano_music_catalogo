@@ -191,6 +191,20 @@
       "imagen": "https://drive.google.com/uc?export=download&id=11lvVTS3v71gU9OObPB2-KdRisOoe9hgY",
       "audio": "https://drive.google.com/uc?export=download&id=1Xnm1Qn2H-LbrS5O4M6VTTW-okL2-79Tm",
       "duracion": null
+    },
+    {
+      "id": "manolo_guerrero_las_hazanas_de_mi_abuelo",
+      "titulo": "Las hazañas de mi Abuelo",
+      "artista": "Manolo Guerrero",
+      "audio": "https://drive.google.com/uc?export=download&id=1VydNMw8fHlhf_vic7QBz2LV-R-DEVgQ8",
+      "duracion": null
+    },
+    {
+      "id": "manolo_guerrero_guayabo_cruel",
+      "titulo": "Guayabo Cruel",
+      "artista": "Manolo Guerrero",
+      "audio": "https://drive.google.com/uc?export=download&id=1iT2NTQ5KHilT7xcGIcy1ypQqLRoYllD4",
+      "duracion": null
     }
   ]
 }

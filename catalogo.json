@@ -444,6 +444,41 @@
       "artista": "Omar García",
       "audio": "https://drive.google.com/uc?export=download&id=1bvCp-QkOLKhaQl1X2gb50YwZGcTR2t9O",
       "duracion": null
+    },
+    {
+      "id": "juan_herrera_recoja_pa_que_nos_vamos",
+      "titulo": "Recoja Pa que nos Vamos",
+      "artista": "Juan Herrera",
+      "audio": "https://drive.google.com/uc?export=download&id=10Ems94TZwPq9Hrw7ihZqN09CGKJceR-F",
+      "duracion": null
+    },
+    {
+      "id": "juan_herrera_caporal_de_las_palmeras",
+      "titulo": "Caporal de las Palmeras",
+      "artista": "Juan Herrera",
+      "audio": "https://drive.google.com/uc?export=download&id=1yJ85t1Kl6WuPBZHydOIPKuJ1YqPHj7aX",
+      "duracion": null
+    },
+    {
+      "id": "juan_herrera_amores_con_timotea",
+      "titulo": "Amores Con Timotea",
+      "artista": "Juan Herrera",
+      "audio": "https://drive.google.com/uc?export=download&id=1yOQepuJeCySEgrrKuZJkVKWeazaP9B8X",
+      "duracion": null
+    },
+    {
+      "id": "juan_herrera_no_cantes_mas_paraulata",
+      "titulo": "No Cantes Más Paraulata",
+      "artista": "Juan Herrera",
+      "audio": "https://drive.google.com/uc?export=download&id=1S5gjldsSoTVU1FS-ecnOoIJcqvTbrBF9",
+      "duracion": null
+    },
+    {
+      "id": "juan_herrera_deme_lo_mio_que_me_voy",
+      "titulo": "Deme lo mío Que me Voy",
+      "artista": "Juan Herrera",
+      "audio": "https://drive.google.com/uc?export=download&id=11EgqainrMhqbvN1PQ6g6MgIPTA7_sd4m",
+      "duracion": null
     }
   ]
 }

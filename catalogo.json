@@ -345,6 +345,35 @@
       "artista": "Marcos Tovar",
       "audio": "https://drive.google.com/uc?export=download&id=1K1_oQGCUw29wPrwCArzZhL7Efj5IQqsm",
       "duracion": null
+    },
+    {
+      "id": "francisco_camacho_tardes_de_cojedes",
+      "titulo": "Tardes de Cojedes",
+      "artista": "Francisco Camacho",
+      "audio": "https://drive.google.com/uc?export=download&id=1OM47IwVORgHrI9w5Jc0smPWJraNhVwFa",
+      "duracion": null
+    },
+    {
+      "id": "francisco_camacho_ya_tengo_un_nuevo_amor",
+      "titulo": "Ya Tengo Un Nuevo Amor",
+      "artista": "Francisco Camacho",
+      "audio": "https://drive.google.com/uc?export=download&id=15zTT9Nxfise3OvtsJEp_XvWngNbmV7T7",
+      "duracion": null
+    },
+    {
+      "id": "francisco_camacho_la_tristeza_de_un_cantante",
+      "titulo": "La Tristeza de Un Cantante",
+      "artista": "Francisco Camacho",
+      "audio": "https://drive.google.com/uc?export=download&id=15HxBPf4CO5RlhI-PVmZDud1CFVqszUcb",
+      "duracion": null
+    },
+    {
+      "id": "francisco_camacho_vengo_a_cobrar_mis_cachapas",
+      "titulo": "Vengo a Cobrar Mis Cachapas",
+      "artista": "Francisco Camacho",
+      "imagen": "https://drive.google.com/uc?export=download&id=1KrsBzy7PzE-lFlu9II0DyNXPOY6Z1NmH",
+      "audio": "https://drive.google.com/uc?export=download&id=18qMfLGnSkHRcCZkt8h_zAaoiq-znhOgR",
+      "duracion": null
     }
   ]
 }

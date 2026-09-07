@@ -374,6 +374,76 @@
       "imagen": "https://drive.google.com/uc?export=download&id=1KrsBzy7PzE-lFlu9II0DyNXPOY6Z1NmH",
       "audio": "https://drive.google.com/uc?export=download&id=18qMfLGnSkHRcCZkt8h_zAaoiq-znhOgR",
       "duracion": null
+    },
+    {
+      "id": "omar_garcia_llano_bonito",
+      "titulo": "Llano Bonito",
+      "artista": "Omar García",
+      "audio": "https://drive.google.com/uc?export=download&id=1-8M9_6JzMRax85C2SRm9Khg5ceVjuw6D",
+      "duracion": null
+    },
+    {
+      "id": "omar_garcia_llora_corazon",
+      "titulo": "Llora Corazón",
+      "artista": "Omar García",
+      "audio": "https://drive.google.com/uc?export=download&id=1eFVsGd83Cc9SPBNss2ClBoqv-0_n_HjO",
+      "duracion": null
+    },
+    {
+      "id": "omar_garcia_asi_es_nuestro_amor",
+      "titulo": "Asi es nuestro Amor",
+      "artista": "Omar García",
+      "audio": "https://drive.google.com/uc?export=download&id=1vR6u8-pI5YmmnaIO0s2m6YxZpvXclGIV",
+      "duracion": null
+    },
+    {
+      "id": "omar_garcia_quirpa_viajera",
+      "titulo": "Quirpa Viajera",
+      "artista": "Omar García",
+      "audio": "https://drive.google.com/uc?export=download&id=1b3AOFO8KQ1T1n--oJoKZWFw-wRNbhfCR",
+      "duracion": null
+    },
+    {
+      "id": "omar_garcia_guayabo_mata_llanero",
+      "titulo": "Guayabo Mata Llanero",
+      "artista": "Omar García",
+      "audio": "https://drive.google.com/uc?export=download&id=16VlZkpzkn0-IfAU8enDlCQU7dxzKkJX_",
+      "duracion": null
+    },
+    {
+      "id": "omar_garcia_cano_seco",
+      "titulo": "Caño Seco",
+      "artista": "Omar García",
+      "audio": "https://drive.google.com/uc?export=download&id=1oZ4ReyI8BtdSrh3IwTZZcp9ihaLbd4AP",
+      "duracion": null
+    },
+    {
+      "id": "omar_garcia_ojos_de_encanto",
+      "titulo": "Ojos de Encanto",
+      "artista": "Omar García",
+      "audio": "https://drive.google.com/uc?export=download&id=12AdQ4R6ZHExBoxtRfR_ue1s9cI0yGVSN",
+      "duracion": null
+    },
+    {
+      "id": "omar_garcia_el_recuerdo_de_una_manga",
+      "titulo": "El Recuerdo de una Manga...",
+      "artista": "Omar García",
+      "audio": "https://drive.google.com/uc?export=download&id=1yTxUCs5X7PsTDjVXuAZW1iJIiBk_OtSE",
+      "duracion": null
+    },
+    {
+      "id": "omar_garcia_mi_tempestad",
+      "titulo": "Mi Tempestad",
+      "artista": "Omar García",
+      "audio": "https://drive.google.com/uc?export=download&id=1nOZtd_tr-ZYt2GRDTa05jwVtY0wENIlv",
+      "duracion": null
+    },
+    {
+      "id": "omar_garcia_detras_de_un_amor",
+      "titulo": "Detrás de un Amor",
+      "artista": "Omar García",
+      "audio": "https://drive.google.com/uc?export=download&id=1bvCp-QkOLKhaQl1X2gb50YwZGcTR2t9O",
+      "duracion": null
     }
   ]
 }

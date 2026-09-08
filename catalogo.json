@@ -85,6 +85,79 @@
           "numero": 12
         }
       ]
+    },
+    {
+      "id": "julio_pantoja_mis_pasajes_preferidos",
+      "titulo": "Mis Pasajes Preferidos",
+      "artista": "Julio Pantoja",
+      "descripcion": "Selección de pasajes preferidos de Julio Pantoja.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "id": "julio_pantoja_la_muerte_del_canoero",
+          "titulo": "La Muerte Del Canoero",
+          "audio": "https://drive.google.com/uc?export=download&id=1d7Onz3bWVt38fOL0MBvBVCqFnIFM2SHt",
+          "duracion": null,
+          "numero": 1
+        },
+        {
+          "id": "julio_pantoja_costa_del_capanaparo",
+          "titulo": "Costa del Capanaparo",
+          "audio": "https://drive.google.com/uc?export=download&id=1yQCeFHoJrt9Q0wVVrJsu4KCgno1sUBrN",
+          "duracion": null,
+          "numero": 2
+        },
+        {
+          "id": "julio_pantoja_canoero_del_arauca",
+          "titulo": "Canoero del Arauca",
+          "audio": "https://drive.google.com/uc?export=download&id=10wqX8t1TogG1rVumhxHjVTIpbJXd-zHf",
+          "duracion": null,
+          "numero": 3
+        },
+        {
+          "id": "julio_pantoja_la_culebra_amarilla",
+          "titulo": "La Culebra Amarilla",
+          "audio": "https://drive.google.com/uc?export=download&id=1I4h8pCqyoC1T4S4o-0GoyCbPan5-0mms",
+          "duracion": null,
+          "numero": 4
+        },
+        {
+          "id": "julio_pantoja_morena_de_pelo_negro",
+          "titulo": "Morena De Pelo Negro",
+          "audio": "https://drive.google.com/uc?export=download&id=1grmziNh60UGvhmrdIycORmMcWRyk4Rnn",
+          "duracion": null,
+          "numero": 5
+        },
+        {
+          "id": "julio_pantoja_mas_alla_del_matiyure",
+          "titulo": "Más Allá del Matiyure",
+          "audio": "https://drive.google.com/uc?export=download&id=1hSiFVnqVv1fuBeVqwJKFqh5486k-KeJt",
+          "duracion": null,
+          "numero": 6
+        },
+        {
+          "id": "julio_pantoja_el_parrandero",
+          "titulo": "El Parrandero",
+          "audio": "https://drive.google.com/uc?export=download&id=1Ac8QIe_p2SSVNH28dVAunUkCOZnpmj8b",
+          "duracion": null,
+          "numero": 7
+        },
+        {
+          "id": "julio_pantoja_llanero_siente_y_lamenta",
+          "titulo": "Llanero Siente y Lamenta",
+          "audio": "https://drive.google.com/uc?export=download&id=1cLDBvrp7u2OabBse3651fkFanSL4o5rF",
+          "duracion": null,
+          "numero": 8
+        },
+        {
+          "id": "julio_pantoja_cajon_de_arauca_apureno",
+          "titulo": "Cajón De Arauca Apureño",
+          "audio": "https://drive.google.com/uc?export=download&id=1Jma1feKWIppTXnsTsAmhRBw7K48SyQRD",
+          "duracion": null,
+          "numero": 9
+        }
+      ]
     }
   ],
   "sencillos": [

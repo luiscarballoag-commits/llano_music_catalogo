@@ -270,14 +270,16 @@
       "titulo": "Las hazañas de mi Abuelo",
       "artista": "Manolo Guerrero",
       "audio": "https://drive.google.com/uc?export=download&id=1VydNMw8fHlhf_vic7QBz2LV-R-DEVgQ8",
-      "duracion": null
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1BYr5uN6-h7ExspYQDVpgq39FkLYvA-62"
     },
     {
       "id": "manolo_guerrero_guayabo_cruel",
       "titulo": "Guayabo Cruel",
       "artista": "Manolo Guerrero",
       "audio": "https://drive.google.com/uc?export=download&id=1iT2NTQ5KHilT7xcGIcy1ypQqLRoYllD4",
-      "duracion": null
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1BYr5uN6-h7ExspYQDVpgq39FkLYvA-62"
     },
     {
       "id": "milena_benitez_milenarios_1",
@@ -368,56 +370,64 @@
       "titulo": "Ensalada de Aguacate",
       "artista": "Jesús Daniel Quintero",
       "audio": "https://drive.google.com/uc?export=download&id=1K5OgpjixDLFBMmb1q449_AHQ0eozWumC",
-      "duracion": null
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP"
     },
     {
       "id": "jesus_daniel_quintero_los_huevos_de_andrea",
       "titulo": "Los Huevos de Andrea",
       "artista": "Jesús Daniel Quintero",
       "audio": "https://drive.google.com/uc?export=download&id=185661yNiFuTDmZsZelrl_RmiBmdlIzIk",
-      "duracion": null
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP"
     },
     {
       "id": "jesus_daniel_quintero_borracho_y_hablando_solo",
       "titulo": "Borracho y Hablando Solo",
       "artista": "Jesús Daniel Quintero",
       "audio": "https://drive.google.com/uc?export=download&id=1q1WS-wCgI1M2UNUuYrfylbTz9qGhlIXJ",
-      "duracion": null
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP"
     },
     {
       "id": "jesus_daniel_quintero_los_cinco_lazos_del_llano",
       "titulo": "Los Cinco Lazos del Llano",
       "artista": "Jesús Daniel Quintero",
       "audio": "https://drive.google.com/uc?export=download&id=1MAG-2gqy3XjKe9OFJ13wGOgnjWRmfO3x",
-      "duracion": null
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP"
     },
     {
       "id": "jesus_daniel_quintero_los_cinco_lazos_y_la_soga",
       "titulo": "Los Cinco Lazos y la Soga",
       "artista": "Jesús Daniel Quintero",
       "audio": "https://drive.google.com/uc?export=download&id=1dmzSfYNSTIQ0qiG4siUVWL7JmvA412J2",
-      "duracion": null
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP"
     },
     {
       "id": "jesus_daniel_quintero_los_cinco_lazos_hasta_que_dios_lo_permita",
       "titulo": "Los Cinco Lazos Hasta que Dios Lo permita",
       "artista": "Jesús Daniel Quintero",
       "audio": "https://drive.google.com/uc?export=download&id=1sCO2Laugi_qZS_qv8GMFfzAFqXrypddW",
-      "duracion": null
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP"
     },
     {
       "id": "jesus_daniel_quintero_los_cinco_lazos_y_el_silbon",
       "titulo": "Los Cinco Lazos y El Silbón",
       "artista": "Jesús Daniel Quintero",
       "audio": "https://drive.google.com/uc?export=download&id=1pvhIb9RIXJDwdq6yKUgpi-lKRA6W1vgS",
-      "duracion": null
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP"
     },
     {
       "id": "jesus_daniel_quintero_los_cinco_lazos_en_un_baile",
       "titulo": "Los Cinco Lazos En un Baile",
       "artista": "Marcos Tovar",
       "audio": "https://drive.google.com/uc?export=download&id=1K1_oQGCUw29wPrwCArzZhL7Efj5IQqsm",
-      "duracion": null
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=13ftgALspdE7TNmYoxZ7SNnc5WAntI7et"
     },
     {
       "id": "francisco_camacho_tardes_de_cojedes",

@@ -794,6 +794,54 @@
       "artista": "Roberto Carballo",
       "audio": "https://drive.google.com/uc?export=download&id=1HnCXKqkP34xwYXghF0wj-57pEe31uY9v",
       "duracion": null
+    },
+    {
+      "id": "manolo_guerrero_meti_la_pata_completa",
+      "titulo": "Meti La Pata Completa",
+      "artista": "Manolo Guerrero",
+      "audio": "https://drive.google.com/uc?export=download&id=1Pokaw2b90EpM93f4CT0dEUQT2qUnbWU0",
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1BYr5uN6-h7ExspYQDVpgq39FkLYvA-62"
+    },
+    {
+      "id": "manolo_guerrero_mi_amiga_la_camioneta",
+      "titulo": "Mi Amiga La Camioneta",
+      "artista": "Manolo Guerrero",
+      "audio": "https://drive.google.com/uc?export=download&id=1-zO0HIJxKjQsYCOoO0iwCfa3vG6uUcvW",
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1BYr5uN6-h7ExspYQDVpgq39FkLYvA-62"
+    },
+    {
+      "id": "manolo_guerrero_amor_sabanero",
+      "titulo": "Amor Sabanero",
+      "artista": "Manolo Guerrero",
+      "audio": "https://drive.google.com/uc?export=download&id=1nn0_YEiUPMBX0MfA0aiD2ONQ1qEosgNx",
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1BYr5uN6-h7ExspYQDVpgq39FkLYvA-62"
+    },
+    {
+      "id": "manolo_guerrero_la_culebrita",
+      "titulo": "La Culebrita",
+      "artista": "Manolo Guerrero",
+      "audio": "https://drive.google.com/uc?export=download&id=1GJ_ad5ou73EImNfBMuz9vzl17WyRgIPN",
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1BYr5uN6-h7ExspYQDVpgq39FkLYvA-62"
+    },
+    {
+      "id": "manolo_guerrero_se_puso_viejo_mi_viejo",
+      "titulo": "Se Puso Viejo Mi Viejo",
+      "artista": "Manolo Guerrero",
+      "audio": "https://drive.google.com/uc?export=download&id=1a8lpO2SVe92irGr_DgknNZEVaGaJ7h8p",
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1BYr5uN6-h7ExspYQDVpgq39FkLYvA-62"
+    },
+    {
+      "id": "manolo_guerrero_ya_me_nacio_un_becerro",
+      "titulo": "Ya Me Nacio Un Becerro",
+      "artista": "Manolo Guerrero",
+      "audio": "https://drive.google.com/uc?export=download&id=1A-OpUajou4v3UFrAUwCnW6mfEQnozVly",
+      "duracion": null,
+      "imagen": "https://drive.google.com/uc?export=download&id=1BYr5uN6-h7ExspYQDVpgq39FkLYvA-62"
     }
   ]
 }

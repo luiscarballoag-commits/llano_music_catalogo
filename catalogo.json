@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-08-31",
+  "actualizado": "2026-09-14",
   "albumes": [
     {
       "id": "album_criollo_001",
@@ -842,6 +842,30 @@
       "audio": "https://drive.google.com/uc?export=download&id=1A-OpUajou4v3UFrAUwCnW6mfEQnozVly",
       "duracion": null,
       "imagen": "https://drive.google.com/uc?export=download&id=1BYr5uN6-h7ExspYQDVpgq39FkLYvA-62"
+    },
+    {
+      "id": "elisa_guerrero_guardatinajas",
+      "titulo": "Guardatinajas",
+      "artista": "Elisa Guerrero",
+      "imagen": "assets/images/clasicos/Elisa_Guerrero.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1duVtT9QHGl9J2CYdsIDxUUV0eCs3SJRl",
+      "duracion": null
+    },
+    {
+      "id": "elisa_guerrero_por_este_camino_largo",
+      "titulo": "Por Este Camino Largo",
+      "artista": "Elisa Guerrero",
+      "imagen": "assets/images/clasicos/Elisa_Guerrero.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1YxRRSc8aDtDgg1f06LV-ZatDW0LaFaZb",
+      "duracion": null
+    },
+    {
+      "id": "elisa_guerrero_guayabo_busca_otro_oficio",
+      "titulo": "Guayabo Busca Otro Oficio",
+      "artista": "Elisa Guerrero",
+      "imagen": "assets/images/clasicos/Elisa_Guerrero.png",
+      "audio": "https://drive.google.com/uc?export=download&id=11aRIZ_ZijUhtnVlxnhKX4omf2XXJqVZE",
+      "duracion": null
     }
   ]
 }

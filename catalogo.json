@@ -158,6 +158,71 @@
           "numero": 9
         }
       ]
+    },
+    {
+      "id": "simon_diaz_grandes_exitos",
+      "titulo": "Grandes Exitos",
+      "artista": "Simón Díaz",
+      "imagen": "assets/images/logo/logo_llano_music.png",
+      "descripcion": "Selección de grandes éxitos de Simón Díaz.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "id": "simon_diaz_alma_llanera",
+          "titulo": "Alma Llanera",
+          "audio": "https://drive.google.com/uc?export=download&id=10Of06gxnQFP2PxMrgkY5CRmp91-30qch",
+          "numero": 1
+        },
+        {
+          "id": "simon_diaz_aquel",
+          "titulo": "Aquel",
+          "audio": "https://drive.google.com/uc?export=download&id=1p7FyyPKz0d3-mVMGjJLtWLM4iR2I-kyN",
+          "numero": 2
+        },
+        {
+          "id": "simon_diaz_el_alcaravan",
+          "titulo": "El Alcaravan",
+          "audio": "https://drive.google.com/uc?export=download&id=1joBYZQkjzwPDkrJr3N6dd_CzpawLFTtA",
+          "numero": 3
+        },
+        {
+          "id": "simon_diaz_el_becerrito",
+          "titulo": "El Becerrito",
+          "audio": "https://drive.google.com/uc?export=download&id=1EENzoONvyVceOk7-rHfKfe6s1DIQJgRa",
+          "numero": 4
+        },
+        {
+          "id": "simon_diaz_mercedes",
+          "titulo": "Mercedes",
+          "audio": "https://drive.google.com/uc?export=download&id=1XmqldIChYcfUwxmMIM26JkPfiLAdNOEh",
+          "numero": 5
+        },
+        {
+          "id": "simon_diaz_mi_querencia",
+          "titulo": "Mi Querencia",
+          "audio": "https://drive.google.com/uc?export=download&id=1RU_A_ZVY_m2y2bhCpuviMJ4gU4rLHhNt",
+          "numero": 6
+        },
+        {
+          "id": "simon_diaz_que_vale_mas",
+          "titulo": "Que Vale Más",
+          "audio": "https://drive.google.com/uc?export=download&id=1PKF21N2NxCEd5o_la1E3jQ2Fbq3iMLwV",
+          "numero": 7
+        },
+        {
+          "id": "simon_diaz_tonada_de_luna_llena",
+          "titulo": "Tonada De Luna Llena",
+          "audio": "https://drive.google.com/uc?export=download&id=15vt2rkEVOXf6atlcMsZYp__N_xzFiFEu",
+          "numero": 8
+        },
+        {
+          "id": "simon_diaz_tonada_del_cabrestero",
+          "titulo": "Tonada Del Cabrestero",
+          "audio": "https://drive.google.com/uc?export=download&id=1SOPgIDfL5YPuFmfIna4c8Pv3ARBK4mK2",
+          "numero": 9
+        }
+      ]
     }
   ],
   "sencillos": [

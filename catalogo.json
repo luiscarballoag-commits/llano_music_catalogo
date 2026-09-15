@@ -221,6 +221,12 @@
           "titulo": "Tonada Del Cabrestero",
           "audio": "https://drive.google.com/uc?export=download&id=1SOPgIDfL5YPuFmfIna4c8Pv3ARBK4mK2",
           "numero": 9
+        },
+        {
+          "id": "simon_diaz_caballo_viejo",
+          "titulo": "Caballo Viejo",
+          "audio": "https://drive.google.com/uc?export=download&id=1uhqo8no5afFjFU-sEhZ4gD87Nn7gitHd",
+          "numero": 10
         }
       ]
     }

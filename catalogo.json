@@ -431,6 +431,53 @@
           "imagen": "assets/images/clasicos/Juan_Farfan.png"
         }
       ]
+    },
+    {
+      "id": "leonel_bravo_el_nenerito_de_achaguas",
+      "titulo": "El Ñenerito De Achaguas",
+      "artista": "Leonel Bravo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1DKkyX0YRTq-Td1d-QtstiDEnt3aTpU6o",
+      "descripcion": "Selección de canciones de Leonel Bravo.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "id": "leonel_bravo_recupere_el_capital",
+          "titulo": "Recupere El Capital",
+          "audio": "https://drive.google.com/uc?export=download&id=1yRDRecYSj9-gcLQLTrDPzNBd65TjZvwi",
+          "numero": 1
+        },
+        {
+          "id": "leonel_bravo_la_sifrina_gorrera",
+          "titulo": "La Sifrina Gorrera",
+          "audio": "https://drive.google.com/uc?export=download&id=1QppwO73Hwom4yGQiANkQHxi2-TUIabmP",
+          "numero": 2
+        },
+        {
+          "id": "leonel_bravo_caminos_de_guayabal",
+          "titulo": "Caminos De Guayabal",
+          "audio": "https://drive.google.com/uc?export=download&id=1wMAheaql1yUk1lfUk6OApvq8OCjmLqjn",
+          "numero": 3
+        },
+        {
+          "id": "leonel_bravo_el_asalto_de_carolina",
+          "titulo": "El Asalto De Carolina",
+          "audio": "https://drive.google.com/uc?export=download&id=1zhJ8gD_1wUQqak5KWaplLfn68ECbZJDZ",
+          "numero": 4
+        },
+        {
+          "id": "leonel_bravo_la_contesta_a_juan_farfan",
+          "titulo": "La Contesta A Juan Farfán",
+          "audio": "https://drive.google.com/uc?export=download&id=1WC4lWFoZt-BEVMNwkojXEfIeSInrxlfO",
+          "numero": 5
+        },
+        {
+          "id": "leonel_bravo_ahi_les_va_otro_ramalazo",
+          "titulo": "Ahí Les Va Otro Ramalazo",
+          "audio": "https://drive.google.com/uc?export=download&id=1iVEHo0ymjJWce7ncZJ-Bed04OezobuiR",
+          "numero": 6
+        }
+      ]
     }
   ],
   "sencillos": [

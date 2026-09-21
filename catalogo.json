@@ -315,9 +315,9 @@
     },
     {
       "id": "nuevas_canciones_2026_09",
-      "titulo": "Nuevas Canciones",
-      "artista": "Varios Artistas",
-      "imagen": "assets/images/logo/logo_llano_music.png",
+      "titulo": "Canciones de Juan Farfán",
+      "artista": "Juan Farfán",
+      "imagen": "assets/images/clasicos/Juan_Farfan.png",
       "descripcion": "Nuevas canciones incorporadas al catálogo remoto.",
       "genero": "Música Llanera",
       "anio": 2026,

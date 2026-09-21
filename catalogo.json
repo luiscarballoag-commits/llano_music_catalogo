@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-09-20",
+  "actualizado": "2026-09-21",
   "albumes": [
     {
       "id": "album_criollo_001",
@@ -310,6 +310,125 @@
           "titulo": "El Amor es Un Problema",
           "audio": "https://drive.google.com/uc?export=download&id=1H8Tsem3PWOsskiBLTFCe4gswIceV79zY",
           "numero": 12
+        }
+      ]
+    },
+    {
+      "id": "nuevas_canciones_2026_09",
+      "titulo": "Nuevas Canciones",
+      "artista": "Varios Artistas",
+      "imagen": "assets/images/logo/logo_llano_music.png",
+      "descripcion": "Nuevas canciones incorporadas al catálogo remoto.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "id": "nueva_el_bagre_rayao",
+          "titulo": "El Bagre Rayao",
+          "audio": "https://drive.google.com/uc?export=download&id=14l2WPOLmmZjvkqOswSoShqZzrumYrykT",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_el_baile_del_pavo",
+          "titulo": "El Baile Del Pavo",
+          "audio": "https://drive.google.com/uc?export=download&id=1jGhUksgKp_2CxwBwZuNnCjDQMQehdUFF",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_el_canta_maluco",
+          "titulo": "El Canta Maluco",
+          "audio": "https://drive.google.com/uc?export=download&id=18tNh4Vz6uJfblMS6Mfweekgyae63geY-",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_el_coleador_forastero",
+          "titulo": "El Coleador Forastero",
+          "audio": "https://drive.google.com/uc?export=download&id=1QKqflZNJQIiQ8il6lSIPGoAeutSRetPJ",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_el_llanero_es_pa_lante",
+          "titulo": "El Llanero Es Pa`Lante",
+          "audio": "https://drive.google.com/uc?export=download&id=1u8IT2mHA1eQ3IQgpYMaIIj1SzMGP6JqW",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_el_torete",
+          "titulo": "El Torete",
+          "audio": "https://drive.google.com/uc?export=download&id=1zHS2vB3Sy55Ybi4JKj69z6ROlpTdxVws",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_el_toro_pitador",
+          "titulo": "El Toro Pitador",
+          "audio": "https://drive.google.com/uc?export=download&id=1TCApdx-68gDmNd07L_Zq_nICh4sIez6J",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_el_viejo_simpatico",
+          "titulo": "El Viejo Simpático",
+          "audio": "https://drive.google.com/uc?export=download&id=1chk9I8Lm_Ta2jHxw56gr9CvaqcdvLJOZ",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_emparrandao",
+          "titulo": "Emparrandao",
+          "audio": "https://drive.google.com/uc?export=download&id=1REWVTXWRoAX3QT_-DwyRDjJoVZfPd37r",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_la_brincona",
+          "titulo": "La Brincona",
+          "audio": "https://drive.google.com/uc?export=download&id=13Iw-37-KwgVqEcpNnro220mVbC_z5eo5",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_la_camisa_dominguera",
+          "titulo": "La Camisa Dominguera",
+          "audio": "https://drive.google.com/uc?export=download&id=1loT23uPuBOL6z0zVGhlpkRqe7MVYnTuv",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_la_fanfarrona",
+          "titulo": "La Fanfarrona",
+          "audio": "https://drive.google.com/uc?export=download&id=1CLpwigIQZiHoUCo1aglyImjfUIa5lmT4",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_la_peladera",
+          "titulo": "La Peladera",
+          "audio": "https://drive.google.com/uc?export=download&id=1S4-Oh5M1oIaZhv9SWnOaDMEIFXmVZyDN",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_los_problemas_de_mi_vida",
+          "titulo": "Los Problemas De Mi Vida",
+          "audio": "https://drive.google.com/uc?export=download&id=1o95z0f1ywZJDxGbYetRs5X4jyf--76oi",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_mascaras",
+          "titulo": "Máscaras",
+          "audio": "https://drive.google.com/uc?export=download&id=1atUssPLKlHc19-lov7rcvqKOFcBKivM9",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_molesto",
+          "titulo": "Molesto",
+          "audio": "https://drive.google.com/uc?export=download&id=16ezG5QySlBvkQGsBEEu-h3fNTtEzZeFJ",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_negrita_maria_aguilera",
+          "titulo": "Negrita María Aguilera",
+          "audio": "https://drive.google.com/uc?export=download&id=14BazjoN_y03qvotUJ4ji6ItEz7wDj7zr",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
+        },
+        {
+          "id": "nueva_yo_si_cuido_lo_mio",
+          "titulo": "Yo Sí Cuido Lo Mío",
+          "audio": "https://drive.google.com/uc?export=download&id=1J8Mv_C9bSYOz3S3J5vlraB0GaU7s7OM4",
+          "imagen": "assets/images/clasicos/Juan_Farfan.png"
         }
       ]
     }

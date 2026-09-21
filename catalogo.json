@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-09-14",
+  "actualizado": "2026-09-20",
   "albumes": [
     {
       "id": "album_criollo_001",
@@ -227,6 +227,89 @@
           "titulo": "Caballo Viejo",
           "audio": "https://drive.google.com/uc?export=download&id=1uhqo8no5afFjFU-sEhZ4gD87Nn7gitHd",
           "numero": 10
+        }
+      ]
+    },
+    {
+      "id": "rafael_bolivar_arpa_y_mujer",
+      "titulo": "Arpa y Mujer",
+      "artista": "Rafael Bolívar",
+      "imagen": "https://drive.google.com/uc?export=download&id=1k_vWWqr1v3hL06ZQCt90EKJsZ_pyOyHi",
+      "descripcion": "Álbum Arpa y Mujer de Rafael Bolívar.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "id": "rafael_bolivar_una_copa_cantinero",
+          "titulo": "Una Copa, Cantinero",
+          "audio": "https://drive.google.com/uc?export=download&id=136EYT0NxG81frUw3NeQGZpFIROMt9vyG",
+          "numero": 1
+        },
+        {
+          "id": "rafael_bolivar_cojedes_tiene_copleros",
+          "titulo": "Cojedes Tiene Copleros",
+          "audio": "https://drive.google.com/uc?export=download&id=1LBHklRB3NwW1wuekWNC2yfg974GQbwdi",
+          "numero": 2
+        },
+        {
+          "id": "rafael_bolivar_madre_sufrida",
+          "titulo": "Madre Sufrida",
+          "audio": "https://drive.google.com/uc?export=download&id=1WYMq32pUhbDbPuqAdtI7loDR8BWcTU7L",
+          "numero": 3
+        },
+        {
+          "id": "rafael_bolivar_reconciliate_conmigo",
+          "titulo": "Reconciliate Conmigo",
+          "audio": "https://drive.google.com/uc?export=download&id=1n_l546pw95Q3uWaaZbSPD9WT1UN5pw6m",
+          "numero": 4
+        },
+        {
+          "id": "rafael_bolivar_amor_inmenso",
+          "titulo": "Amor Inmenso",
+          "audio": "https://drive.google.com/uc?export=download&id=1QXPP9Tck_CTPNeYpzI1jR4pB-5L9yuZT",
+          "numero": 5
+        },
+        {
+          "id": "rafael_bolivar_tu_no_eres_culpable",
+          "titulo": "Tu No Eres Culpable",
+          "audio": "https://drive.google.com/uc?export=download&id=12iYwHBEuKdB96o_mp42XwvVanmnNtUKO",
+          "numero": 6
+        },
+        {
+          "id": "rafael_bolivar_vestida_de_garza_blanca",
+          "titulo": "Vestida de Garza Blanca",
+          "audio": "https://drive.google.com/uc?export=download&id=1Do7h5xUkq16fBQ8bXSHATR0bZqMMwSaB",
+          "numero": 7
+        },
+        {
+          "id": "rafael_bolivar_arpa_y_mujer",
+          "titulo": "Arpa y Mujer",
+          "audio": "https://drive.google.com/uc?export=download&id=1SJzNv3eh2jAFxNju39rj_6qm_jAp_Hbs",
+          "numero": 8
+        },
+        {
+          "id": "rafael_bolivar_defiensase_por_la_u",
+          "titulo": "Defiénsase Por La 'U'",
+          "audio": "https://drive.google.com/uc?export=download&id=1W55dt50nmrYaMBvqezK5QkED8qTVj0au",
+          "numero": 9
+        },
+        {
+          "id": "rafael_bolivar_romance_secreto",
+          "titulo": "Romance Secreto",
+          "audio": "https://drive.google.com/uc?export=download&id=164TTech7vKoDmGdIpiocrAu6-d-s5ohK",
+          "numero": 10
+        },
+        {
+          "id": "rafael_bolivar_la_despreciada",
+          "titulo": "La Despreciada",
+          "audio": "https://drive.google.com/uc?export=download&id=11Bl-A6ElZ8RQq8p4OmeBDywXvvtIWDoR",
+          "numero": 11
+        },
+        {
+          "id": "rafael_bolivar_el_amor_es_un_problema",
+          "titulo": "El Amor es Un Problema",
+          "audio": "https://drive.google.com/uc?export=download&id=1H8Tsem3PWOsskiBLTFCe4gswIceV79zY",
+          "numero": 12
         }
       ]
     }

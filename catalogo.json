@@ -478,6 +478,59 @@
           "numero": 6
         }
       ]
+    },
+    {
+      "id": "carmen_aguilar_la_gabana_cojedena",
+      "titulo": "La Gabana Cojedeña",
+      "artista": "Carmen Aguilar",
+      "imagen": "https://drive.google.com/uc?export=download&id=1gc4bwgd_AboqMAlcYt1f4M_5HCUNAZeU",
+      "descripcion": "Selección de canciones de Carmen Aguilar.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "id": "carmen_aguilar_el_gaban_mentiroso",
+          "titulo": "El Gabán Mentiroso",
+          "audio": "https://drive.google.com/uc?export=download&id=1724pfM23lv4GBj65ZjvyoMKKkHijOfec",
+          "numero": 1
+        },
+        {
+          "id": "carmen_aguilar_cielo_y_sabana",
+          "titulo": "Cielo y Sabana",
+          "audio": "https://drive.google.com/uc?export=download&id=1H53OuCyWShJgYrUh1ScTIY_G0d7Ef9lW",
+          "numero": 2
+        },
+        {
+          "id": "carmen_aguilar_error_cometido",
+          "titulo": "Error Cometido",
+          "audio": "https://drive.google.com/uc?export=download&id=1UCr1BJMpZcpN6U9hiaBcnSPypoTKdRnE",
+          "numero": 3
+        },
+        {
+          "id": "carmen_aguilar_olvidala_corazon",
+          "titulo": "Olvídala Corazón",
+          "audio": "https://drive.google.com/uc?export=download&id=1fbMX2IfZAJcaEeejVkBqe7sr9tJWEr9z",
+          "numero": 4
+        },
+        {
+          "id": "carmen_aguilar_lamento_en_la_lejania",
+          "titulo": "Lamento en la Lejanía",
+          "audio": "https://drive.google.com/uc?export=download&id=1KCzMy0pIvSirxMHxqvQTWFmhGONZud7K",
+          "numero": 5
+        },
+        {
+          "id": "carmen_aguilar_tu_regalo",
+          "titulo": "Tu Regalo",
+          "audio": "https://drive.google.com/uc?export=download&id=1PVh7713qhv93aKhFtLrwT80XdUwgWvAS",
+          "numero": 6
+        },
+        {
+          "id": "carmen_aguilar_llanera_soy_de_cojedes",
+          "titulo": "Llanera Soy De Cojedes",
+          "audio": "https://drive.google.com/uc?export=download&id=1-lQ1jMxsqMXn_qiZj1G0W3QRt-bAzd6i",
+          "numero": 7
+        }
+      ]
     }
   ],
   "sencillos": [

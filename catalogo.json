@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-09-21",
+  "actualizado": "2026-09-24",
   "albumes": [
     {
       "id": "album_criollo_001",
@@ -529,6 +529,89 @@
           "titulo": "Llanera Soy De Cojedes",
           "audio": "https://drive.google.com/uc?export=download&id=1-lQ1jMxsqMXn_qiZj1G0W3QRt-bAzd6i",
           "numero": 7
+        }
+      ]
+    },
+    {
+      "id": "jesus_moreno_apure_legendario",
+      "titulo": "Apure Legendario",
+      "artista": "Jesús Moreno",
+      "imagen": "https://drive.google.com/uc?export=download&id=1b-XVMRUqLx2lV0uKYKSG1Vi34rsFY_5j",
+      "descripcion": "Álbum de música llanera de Jesús Moreno.",
+      "genero": "Música Llanera",
+      "anio": 1977,
+      "canciones": [
+        {
+          "id": "jesus_moreno_apure_legendario",
+          "titulo": "Apure Legendario",
+          "audio": "https://drive.google.com/uc?export=download&id=1Z0UfdRLdmB5cZaGesrRbjnoo9hjO6Ia7",
+          "numero": 1
+        },
+        {
+          "id": "jesus_moreno_fue_falso_tu_juramento",
+          "titulo": "Fue Falso Tu Juramento",
+          "audio": "https://drive.google.com/uc?export=download&id=1hUdOT7_lqxJHLTV5sG8xepeCaFHVJfr6",
+          "numero": 2
+        },
+        {
+          "id": "jesus_moreno_la_que_no_me_quiso_amar",
+          "titulo": "La Que No Me Quiso Amar",
+          "audio": "https://drive.google.com/uc?export=download&id=1zS-XH_Giz9igODXT-WLAeuzzpWBubdMO",
+          "numero": 3
+        },
+        {
+          "id": "jesus_moreno_consejo_para_un_coplero",
+          "titulo": "Consejo Para Un Coplero",
+          "audio": "https://drive.google.com/uc?export=download&id=1EvwoQG2LaWudymQYObIG-3CnTDQusF8a",
+          "numero": 4
+        },
+        {
+          "id": "jesus_moreno_la_desobediente",
+          "titulo": "La Desobediente",
+          "audio": "https://drive.google.com/uc?export=download&id=10eC6bmU3_5rHE6z9wmx52fRxV4uFSH7t",
+          "numero": 5
+        },
+        {
+          "id": "jesus_moreno_como_yo_te_quiero",
+          "titulo": "Como Yo Te Quiero",
+          "audio": "https://drive.google.com/uc?export=download&id=1WF0oTcoaypur-rzdTiKV8hOUOl8kH9cg",
+          "numero": 6
+        },
+        {
+          "id": "jesus_moreno_los_cantares_de_mi_tierra",
+          "titulo": "Los Cantares De Mi Tierra",
+          "audio": "https://drive.google.com/uc?export=download&id=14ZjNFQelYyGY05JSAryPSqNcTvBQe031",
+          "numero": 7
+        },
+        {
+          "id": "jesus_moreno_tu_amor_es_la_solucion",
+          "titulo": "Tu Amor Es La Solucion",
+          "audio": "https://drive.google.com/uc?export=download&id=1l5Ian54SRelXPp95uxIrNf0oXxkh2-Fi",
+          "numero": 8
+        },
+        {
+          "id": "jesus_moreno_llano_y_lejania",
+          "titulo": "Llano Y Lejania",
+          "audio": "https://drive.google.com/uc?export=download&id=1AP1TbxjJUPAnbSi7nM6M0eJi04IfDm85",
+          "numero": 9
+        },
+        {
+          "id": "jesus_moreno_la_novia_ingrata",
+          "titulo": "La Novia Ingrata",
+          "audio": "https://drive.google.com/uc?export=download&id=1rZwCfciz_ptZEU6dP6yGBWr5CE8ns7YT",
+          "numero": 10
+        },
+        {
+          "id": "jesus_moreno_no_importa_si_me_olvidaste",
+          "titulo": "No Importa Si Me Olvidaste",
+          "audio": "https://drive.google.com/uc?export=download&id=1S-wkddr8uYuFZlxBxGxKGKnu1EQAUkDt",
+          "numero": 11
+        },
+        {
+          "id": "jesus_moreno_ilucionada",
+          "titulo": "Ilucionada",
+          "audio": "https://drive.google.com/uc?export=download&id=1az53wX7VXTwb1kwX_zucE9-gyIQW0lAW",
+          "numero": 12
         }
       ]
     }

@@ -614,6 +614,149 @@
           "numero": 12
         }
       ]
+    },
+    {
+      "id": "luis_silva_el_barines",
+      "titulo": "El Barinés",
+      "artista": "Luis Silva",
+      "imagen": "https://drive.google.com/uc?export=download&id=1sfMIyhWqCUWIZmX1PVHhCpcZpx9zCLxQ",
+      "descripcion": "Recopilación especial de Llano Music con canciones de Luis Silva, El Barinés.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "id": "luis_silva_enamorado_de_ti",
+          "titulo": "Enamorado De Ti",
+          "audio": "https://drive.google.com/uc?export=download&id=1f1HL_hBWWowujb6SleGzbOx2_kiLBMr5",
+          "numero": 1
+        },
+        {
+          "id": "luis_silva_la_infiel",
+          "titulo": "La Infiel",
+          "audio": "https://drive.google.com/uc?export=download&id=1DfmdiA20HN8M6qtZLOdxtcr7TE0KkeAo",
+          "numero": 2
+        },
+        {
+          "id": "luis_silva_como_no_voy_a_decirlo",
+          "titulo": "Como No Voy A Decirlo",
+          "audio": "https://drive.google.com/uc?export=download&id=18u_9vOuR4xd4vB9MxmCH2Owj2AflwoAY",
+          "numero": 3
+        },
+        {
+          "id": "luis_silva_ella_o_el",
+          "titulo": "Ella O Él",
+          "audio": "https://drive.google.com/uc?export=download&id=1kLnRTrMrc4xjEi_BAvDxGudJ5zeMEIYI",
+          "numero": 4
+        },
+        {
+          "id": "luis_silva_muchachita_campesina",
+          "titulo": "Muchachita Campesina",
+          "audio": "https://drive.google.com/uc?export=download&id=1A2yh-h-uTAQ390dc2FRdOYNldEe5qsHD",
+          "numero": 5
+        },
+        {
+          "id": "luis_silva_farsante",
+          "titulo": "Farsante",
+          "audio": "https://drive.google.com/uc?export=download&id=1N31sOmisxGuSab4_v2M7I_qcEBH1Ny65",
+          "numero": 6
+        },
+        {
+          "id": "luis_silva_llamarada",
+          "titulo": "Llamarada",
+          "audio": "https://drive.google.com/uc?export=download&id=1a4fYr75L5Mu7OE1jyRvkH2ewVcZ8tr8W",
+          "numero": 7
+        },
+        {
+          "id": "luis_silva_como_quisiera_olvidarte",
+          "titulo": "Como Quisiera Olvidarte",
+          "audio": "https://drive.google.com/uc?export=download&id=1pS8J3vaZnwMVMdlpW8Y2RQFrwyZ6I4Aj",
+          "numero": 8
+        },
+        {
+          "id": "luis_silva_linda_mujer_de_mi_pueblo",
+          "titulo": "Linda Mujer De Mi Pueblo",
+          "audio": "https://drive.google.com/uc?export=download&id=1pKA1O5UsDsMi4tihMG_F7yO-HMfxH3XY",
+          "numero": 9
+        },
+        {
+          "id": "luis_silva_alguien_te_espera",
+          "titulo": "Alguien Te Espera",
+          "audio": "https://drive.google.com/uc?export=download&id=1t0MarWrKLpbhWcY_lFQWBw5LVC5kW1aM",
+          "numero": 10
+        },
+        {
+          "id": "luis_silva_la_enredadera",
+          "titulo": "La Enredadera",
+          "audio": "https://drive.google.com/uc?export=download&id=1MLslcRGagBGGQeIJGTiZRhoVxWrnhOMo",
+          "numero": 11
+        },
+        {
+          "id": "luis_silva_sangre_azul",
+          "titulo": "Sangre Azul",
+          "audio": "https://drive.google.com/uc?export=download&id=1jjtHR6vV_7fA8TDz61SwDu9NdEk6wgER",
+          "numero": 12
+        },
+        {
+          "id": "luis_silva_sencillo",
+          "titulo": "Sencillo",
+          "audio": "https://drive.google.com/uc?export=download&id=1SCdo_Wr3GsIbqz47lyxKkzZ706mwfRz-",
+          "numero": 13
+        },
+        {
+          "id": "luis_silva_ojos_del_amor",
+          "titulo": "Ojos del Amor",
+          "audio": "https://drive.google.com/uc?export=download&id=1YQ8KlFzzvhTddOqrqKhrnJqAoAs9HQjb",
+          "numero": 14
+        },
+        {
+          "id": "luis_silva_el_cimarron",
+          "titulo": "El Cimarrón",
+          "audio": "https://drive.google.com/uc?export=download&id=1EJAA4vR3QPwjjKHHOyLVvp1jLllIqlmO",
+          "numero": 15
+        },
+        {
+          "id": "luis_silva_enfermo_de_amor",
+          "titulo": "Enfermo De Amor",
+          "audio": "https://drive.google.com/uc?export=download&id=1hOqCx2r8_mgLWqOWjbaLCSXUMgeM-Can",
+          "numero": 16
+        },
+        {
+          "id": "luis_silva_quisiera_ser",
+          "titulo": "Quisiera Ser",
+          "audio": "https://drive.google.com/uc?export=download&id=1yKOs7CqPRslweK_7mfxf7PUkZGKOfbF1",
+          "numero": 17
+        },
+        {
+          "id": "luis_silva_mi_campechana",
+          "titulo": "Mi Campechana",
+          "audio": "https://drive.google.com/uc?export=download&id=1r3ZmFw3z5uYZWwYKI1eqRdO2PONm2IIJ",
+          "numero": 18
+        },
+        {
+          "id": "luis_silva_enfurecida",
+          "titulo": "Enfurecida",
+          "audio": "https://drive.google.com/uc?export=download&id=1UT7aE1rMuZ8x52SIhTfsMYaR5jlxH13V",
+          "numero": 19
+        },
+        {
+          "id": "luis_silva_perdoname",
+          "titulo": "Perdóname",
+          "audio": "https://drive.google.com/uc?export=download&id=1SRSYFY9v2wDZRqyqfi9t_0Q8exU3jMdE",
+          "numero": 20
+        },
+        {
+          "id": "luis_silva_soy_veguero",
+          "titulo": "Soy Veguero",
+          "audio": "https://drive.google.com/uc?export=download&id=14sEJrvdC1ISBzMqJnkBnGG5huMHeseQH",
+          "numero": 21
+        },
+        {
+          "id": "luis_silva_quiero_enamorarme_ti",
+          "titulo": "Quiero Enamorarme Ti",
+          "audio": "https://drive.google.com/uc?export=download&id=18zxmTiX4NyPVXls028RgFuYZEdJWqo9Y",
+          "numero": 22
+        }
+      ]
     }
   ],
   "sencillos": [

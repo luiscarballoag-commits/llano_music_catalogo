@@ -1749,6 +1749,96 @@
       "imagen": "assets/images/clasicos/Elisa_Guerrero.png",
       "audio": "https://drive.google.com/uc?export=download&id=11aRIZ_ZijUhtnVlxnhKX4omf2XXJqVZE",
       "duracion": null
+    },
+    {
+      "id": "jose_romero_bello_te_esperare_en_el_palmar",
+      "titulo": "Te Esperaré en El Palmar",
+      "artista": "José Romero Bello",
+      "audio": "https://drive.google.com/uc?export=download&id=1sBJ8Xv6NiKTXBu5oxBl2iH-0-2OwwIpu",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ieVlKdtDkXovN0d9Rse5ZzRi5x0lPtJW",
+      "genero": "Música Llanera",
+      "anio": 2026
+    },
+    {
+      "id": "jose_romero_bello_el_artista_de_mi_tierra",
+      "titulo": "El Artista De Mi Tierra",
+      "artista": "José Romero Bello",
+      "audio": "https://drive.google.com/uc?export=download&id=114W9szdfNlW8PfZfDyGIBGEZHiBfL3-8",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ieVlKdtDkXovN0d9Rse5ZzRi5x0lPtJW",
+      "genero": "Música Llanera",
+      "anio": 2026
+    },
+    {
+      "id": "jose_romero_bello_la_rubiera",
+      "titulo": "La Rubiera",
+      "artista": "José Romero Bello",
+      "audio": "https://drive.google.com/uc?export=download&id=1jFEPmrA4jde_ET0_F6MImOuAXD4N3R1c",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ieVlKdtDkXovN0d9Rse5ZzRi5x0lPtJW",
+      "genero": "Música Llanera",
+      "anio": 2026
+    },
+    {
+      "id": "jose_romero_bello_continuacion_de_la_rubiera",
+      "titulo": "Continuación de La Rubiera",
+      "artista": "José Romero Bello",
+      "audio": "https://drive.google.com/uc?export=download&id=1L3RC15ixIye_NqbdgCcifkJqEA6Rnplz",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ieVlKdtDkXovN0d9Rse5ZzRi5x0lPtJW",
+      "genero": "Música Llanera",
+      "anio": 2026
+    },
+    {
+      "id": "jose_romero_bello_caminos_de_san_fernando",
+      "titulo": "Caminos De San Fernando",
+      "artista": "José Romero Bello",
+      "audio": "https://drive.google.com/uc?export=download&id=1HC-_lKKibD4u2mj5nuZ5tl3Z54f6BlGK",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ieVlKdtDkXovN0d9Rse5ZzRi5x0lPtJW",
+      "genero": "Música Llanera",
+      "anio": 2026
+    },
+    {
+      "id": "jose_romero_bello_amor_bruzualeno",
+      "titulo": "Amor Bruzualeño",
+      "artista": "José Romero Bello",
+      "audio": "https://drive.google.com/uc?export=download&id=1xmvf7nThXK7nOK5SBSSRdNkpcKWkDiXw",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ieVlKdtDkXovN0d9Rse5ZzRi5x0lPtJW",
+      "genero": "Música Llanera",
+      "anio": 2026
+    },
+    {
+      "id": "jose_romero_bello_alcaravan_del_estero",
+      "titulo": "Alcaravan del Estero",
+      "artista": "José Romero Bello",
+      "audio": "https://drive.google.com/uc?export=download&id=1rp9THiBz5JY6xReVeJ-s4otc6f8eD_WZ",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ieVlKdtDkXovN0d9Rse5ZzRi5x0lPtJW",
+      "genero": "Música Llanera",
+      "anio": 2026
+    },
+    {
+      "id": "jose_romero_bello_mango_verde",
+      "titulo": "Mango Verde",
+      "artista": "José Romero Bello",
+      "audio": "https://drive.google.com/uc?export=download&id=1tn6Gmfs8RSE3_QvVQOYylqVm0JIfI7aU",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ieVlKdtDkXovN0d9Rse5ZzRi5x0lPtJW",
+      "genero": "Música Llanera",
+      "anio": 2026
+    },
+    {
+      "id": "jose_romero_bello_llanero_no_es_cualquier_cosa",
+      "titulo": "Llanero No Es Cualquier Cosa",
+      "artista": "José Romero Bello",
+      "audio": "https://drive.google.com/uc?export=download&id=1_u3iva7G0g7y04wjoSTUMCYxjUB2GXCS",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ieVlKdtDkXovN0d9Rse5ZzRi5x0lPtJW",
+      "genero": "Música Llanera",
+      "anio": 2026
+    },
+    {
+      "id": "jose_romero_bello_contrapunteo_por_tema",
+      "titulo": "Contrapunteo Por Tema",
+      "artista": "José Romero Bello",
+      "audio": "https://drive.google.com/uc?export=download&id=14cJVGAM4BpTZb0v8Z_QWTDDyDutOPohE",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ieVlKdtDkXovN0d9Rse5ZzRi5x0lPtJW",
+      "genero": "Música Llanera",
+      "anio": 2026
     }
   ]
 }

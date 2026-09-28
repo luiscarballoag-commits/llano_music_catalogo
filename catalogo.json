@@ -970,6 +970,77 @@
           "id": "carlos_pantoja_la_carta_que_me_trajeron"
         }
       ]
+    },
+    {
+      "id": "leyda_linares_trago_de_coraje",
+      "titulo": "Trago De Coraje",
+      "artista": "Leyda Linares",
+      "imagen": "https://drive.google.com/uc?export=download&id=1u_SmNDK0SJJo0MDLCd6fNQezpQQgXvZi",
+      "descripcion": "Recopilación especial para Llano Music.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "id": "leyda_linares_trago_de_coraje",
+          "titulo": "Trago De Coraje",
+          "audio": "https://drive.google.com/uc?export=download&id=1HyYWjRLH5kq5xCFbI-MpkGLEpwaGWW_n",
+          "numero": 1
+        },
+        {
+          "id": "leyda_linares_si_me_das_a_elegir",
+          "titulo": "Si Me Das A Elegir",
+          "audio": "https://drive.google.com/uc?export=download&id=1bDQn96CFhKk6f4F8tntOh8cQq4NmUoli",
+          "numero": 2
+        },
+        {
+          "id": "leyda_linares_cuatro_corazones",
+          "titulo": "Cuatro Corazones",
+          "audio": "https://drive.google.com/uc?export=download&id=1a92QsVb6P5Zo4qnGNdoTJXwlZQBqHXdT",
+          "numero": 3
+        },
+        {
+          "id": "leyda_linares_la_tipica_parrandera",
+          "titulo": "La Típica Parrandera",
+          "audio": "https://drive.google.com/uc?export=download&id=1nEfUoHonVUR-ROkdkkDxxmhjnabyRrOe",
+          "numero": 4
+        },
+        {
+          "id": "leyda_linares_cuatro_palos_pa_un_guayabo",
+          "titulo": "Cuatro Palos Pa` Un Guayabo",
+          "audio": "https://drive.google.com/uc?export=download&id=1LxBbGrd6O_bCwq6vKYoJS2b009hxqVnr",
+          "numero": 5
+        },
+        {
+          "id": "leyda_linares_emparradame_la_vida",
+          "titulo": "Emparradame La Vida",
+          "audio": "https://drive.google.com/uc?export=download&id=16-_DdVg9MSWBVJpKt_kps4tWJwhOr7N2",
+          "numero": 6
+        },
+        {
+          "id": "leyda_linares_por_los_caminos_de_apure",
+          "titulo": "Por los Caminos de Apure",
+          "audio": "https://drive.google.com/uc?export=download&id=1XjbXtpqDAO55uySMeSLANRZKDAYa80vo",
+          "numero": 7
+        },
+        {
+          "id": "leyda_linares_dile_a_la_tipa_esa",
+          "titulo": "Dile A La Tipa Esa",
+          "audio": "https://drive.google.com/uc?export=download&id=1JJKKxb9kx306OF2xU46BDasEFnw048Np",
+          "numero": 8
+        },
+        {
+          "id": "leyda_linares_no_me_provoquen",
+          "titulo": "No Me Provoquen",
+          "audio": "https://drive.google.com/uc?export=download&id=1tz9M3db0NGiqzxRxypp1kM3Oipi4ItT7",
+          "numero": 9
+        },
+        {
+          "id": "leyda_linares_la_negra_que_te_escopeta",
+          "titulo": "La Negra Que Te Escopeta",
+          "audio": "https://drive.google.com/uc?export=download&id=1FtugnClVCeeFpeuynUfGlR-mg7Hpm32u",
+          "numero": 10
+        }
+      ]
     }
   ],
   "sencillos": [
@@ -1678,77 +1749,6 @@
       "imagen": "assets/images/clasicos/Elisa_Guerrero.png",
       "audio": "https://drive.google.com/uc?export=download&id=11aRIZ_ZijUhtnVlxnhKX4omf2XXJqVZE",
       "duracion": null
-    },
-    {
-      "id": "leyda_linares_trago_de_coraje",
-      "titulo": "Trago De Coraje",
-      "artista": "Leyda Linares",
-      "imagen": "https://drive.google.com/uc?export=download&id=1u_SmNDK0SJJo0MDLCd6fNQezpQQgXvZi",
-      "descripcion": "Recopilación especial para Llano Music.",
-      "genero": "Música Llanera",
-      "anio": 2026,
-      "canciones": [
-        {
-          "id": "leyda_linares_trago_de_coraje",
-          "titulo": "Trago De Coraje",
-          "audio": "https://drive.google.com/uc?export=download&id=1HyYWjRLH5kq5xCFbI-MpkGLEpwaGWW_n",
-          "numero": 1
-        },
-        {
-          "id": "leyda_linares_si_me_das_a_elegir",
-          "titulo": "Si Me Das A Elegir",
-          "audio": "https://drive.google.com/uc?export=download&id=1bDQn96CFhKk6f4F8tntOh8cQq4NmUoli",
-          "numero": 2
-        },
-        {
-          "id": "leyda_linares_cuatro_corazones",
-          "titulo": "Cuatro Corazones",
-          "audio": "https://drive.google.com/uc?export=download&id=1a92QsVb6P5Zo4qnGNdoTJXwlZQBqHXdT",
-          "numero": 3
-        },
-        {
-          "id": "leyda_linares_la_tipica_parrandera",
-          "titulo": "La Típica Parrandera",
-          "audio": "https://drive.google.com/uc?export=download&id=1nEfUoHonVUR-ROkdkkDxxmhjnabyRrOe",
-          "numero": 4
-        },
-        {
-          "id": "leyda_linares_cuatro_palos_pa_un_guayabo",
-          "titulo": "Cuatro Palos Pa` Un Guayabo",
-          "audio": "https://drive.google.com/uc?export=download&id=1LxBbGrd6O_bCwq6vKYoJS2b009hxqVnr",
-          "numero": 5
-        },
-        {
-          "id": "leyda_linares_emparradame_la_vida",
-          "titulo": "Emparradame La Vida",
-          "audio": "https://drive.google.com/uc?export=download&id=16-_DdVg9MSWBVJpKt_kps4tWJwhOr7N2",
-          "numero": 6
-        },
-        {
-          "id": "leyda_linares_por_los_caminos_de_apure",
-          "titulo": "Por los Caminos de Apure",
-          "audio": "https://drive.google.com/uc?export=download&id=1XjbXtpqDAO55uySMeSLANRZKDAYa80vo",
-          "numero": 7
-        },
-        {
-          "id": "leyda_linares_dile_a_la_tipa_esa",
-          "titulo": "Dile A La Tipa Esa",
-          "audio": "https://drive.google.com/uc?export=download&id=1JJKKxb9kx306OF2xU46BDasEFnw048Np",
-          "numero": 8
-        },
-        {
-          "id": "leyda_linares_no_me_provoquen",
-          "titulo": "No Me Provoquen",
-          "audio": "https://drive.google.com/uc?export=download&id=1tz9M3db0NGiqzxRxypp1kM3Oipi4ItT7",
-          "numero": 9
-        },
-        {
-          "id": "leyda_linares_la_negra_que_te_escopeta",
-          "titulo": "La Negra Que Te Escopeta",
-          "audio": "https://drive.google.com/uc?export=download&id=1FtugnClVCeeFpeuynUfGlR-mg7Hpm32u",
-          "numero": 10
-        }
-      ]
     }
   ]
 }

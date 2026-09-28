@@ -859,57 +859,68 @@
         {
           "titulo": "Seis por Derecho",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1pDUt-y9tWPClXTdqysO1cByipE3Iky2G"
+          "audio": "https://drive.google.com/uc?export=download&id=1pDUt-y9tWPClXTdqysO1cByipE3Iky2G",
+          "id": "pedro_emilio_sanchez_seis_por_derecho"
         },
         {
           "titulo": "Brisas del Guamal",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1z_c7GFW2205gvX8aSW2nk-sGyemvpibM"
+          "audio": "https://drive.google.com/uc?export=download&id=1z_c7GFW2205gvX8aSW2nk-sGyemvpibM",
+          "id": "pedro_emilio_sanchez_brisas_del_guamal"
         },
         {
           "titulo": "Preludio de un Cabrestero",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1FtLNLT67R99IUUAEqQuFdcxXylJGhCG5"
+          "audio": "https://drive.google.com/uc?export=download&id=1FtLNLT67R99IUUAEqQuFdcxXylJGhCG5",
+          "id": "pedro_emilio_sanchez_preludio_de_un_cabrestero"
         },
         {
           "titulo": "La Luna de San Fernando",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1OwvIcGLz4XMHY8YZxF8PT-xbJVzwKdm2"
+          "audio": "https://drive.google.com/uc?export=download&id=1OwvIcGLz4XMHY8YZxF8PT-xbJVzwKdm2",
+          "id": "pedro_emilio_sanchez_la_luna_de_san_fernando"
         },
         {
           "titulo": "Vida Llanera",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1BxXYVvcO3VVve3vvwTKT4p9feg6Yz2Ru"
+          "audio": "https://drive.google.com/uc?export=download&id=1BxXYVvcO3VVve3vvwTKT4p9feg6Yz2Ru",
+          "id": "pedro_emilio_sanchez_vida_llanera"
         },
         {
           "titulo": "Romance Apureño",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1c-L7yDF_GRlbUoeokh3VykrHCgdToqwK"
+          "audio": "https://drive.google.com/uc?export=download&id=1c-L7yDF_GRlbUoeokh3VykrHCgdToqwK",
+          "id": "pedro_emilio_sanchez_romance_apureno"
         },
         {
           "titulo": "Camino de Santa Rita",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1Cyui3axCKr5Vss406zT1WzVvFIM7oJ6x"
+          "audio": "https://drive.google.com/uc?export=download&id=1Cyui3axCKr5Vss406zT1WzVvFIM7oJ6x",
+          "id": "pedro_emilio_sanchez_camino_de_santa_rita"
         },
         {
           "titulo": "El Guayabo Negro",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1xyOrCF4h79dbHMg02O1zHXFF6U1HHIaf"
+          "audio": "https://drive.google.com/uc?export=download&id=1xyOrCF4h79dbHMg02O1zHXFF6U1HHIaf",
+          "id": "pedro_emilio_sanchez_el_guayabo_negro"
         },
         {
           "titulo": "Romance en la Lejanía",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1flrWfksPl1T1gGqCHtZ_7XbNfy5aP-Qc"
+          "audio": "https://drive.google.com/uc?export=download&id=1flrWfksPl1T1gGqCHtZ_7XbNfy5aP-Qc",
+          "id": "pedro_emilio_sanchez_romance_en_la_lejania"
         },
         {
           "titulo": "Brisas de Apure",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1t9y7DNDMGmxOelGcZ8IZiSGeyG6XTUsp"
+          "audio": "https://drive.google.com/uc?export=download&id=1t9y7DNDMGmxOelGcZ8IZiSGeyG6XTUsp",
+          "id": "pedro_emilio_sanchez_brisas_de_apure"
         },
         {
           "titulo": "Las Ramas del Guayabo",
           "artista": "Pedro Emilio Sánchez",
-          "url": "https://drive.google.com/uc?export=download&id=1gmOwgKuJ-ZXoXJgOIT3nK9W9BQLbYJoc"
+          "audio": "https://drive.google.com/uc?export=download&id=1gmOwgKuJ-ZoXJgOIT3nK9W9BQLbYJoc",
+          "id": "pedro_emilio_sanchez_las_ramas_del_guayabo"
         }
       ]
     },

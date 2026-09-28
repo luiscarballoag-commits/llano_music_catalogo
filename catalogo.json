@@ -757,6 +757,202 @@
           "numero": 22
         }
       ]
+    },
+    {
+      "id": "armando_martinez_recopilacion_especial",
+      "titulo": "Recopilación Especial",
+      "artista": "Armando Martínez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1_g8Alz_mNtEzx_wGIQ578nCHhp0HsurP",
+      "descripcion": "Recopilación especial de Llano Music con canciones de Armando Martínez.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "id": "armando_martinez_con_ella_si_soy_feliz",
+          "titulo": "Con Ella Sí Soy Feliz",
+          "audio": "https://drive.google.com/uc?export=download&id=1of83OvwefbbBEoXbR6daEKWXfrZHvgp-",
+          "numero": 1
+        },
+        {
+          "id": "armando_martinez_dona_maria",
+          "titulo": "Doña María",
+          "audio": "https://drive.google.com/uc?export=download&id=1VB3MNBC77lzqiGm730iIDtd2RAhnuUL9",
+          "numero": 2
+        },
+        {
+          "id": "armando_martinez_los_secretos_de_la_brisa",
+          "titulo": "Los Secretos de la Brisa",
+          "audio": "https://drive.google.com/uc?export=download&id=13OhDJHL_s4n5shC2IZ2VT8wrTW_oJ-qC",
+          "numero": 3
+        },
+        {
+          "id": "armando_martinez_mi_tristeza",
+          "titulo": "Mi Tristeza",
+          "audio": "https://drive.google.com/uc?export=download&id=1h2-APke9LzqvdgpUhAcLWuIvo5yn9Kkc",
+          "numero": 4
+        },
+        {
+          "id": "armando_martinez_adios_barrancas_de_arauca",
+          "titulo": "Adiós Barrancas de Arauca",
+          "audio": "https://drive.google.com/uc?export=download&id=1p-y8YRtNUX-aH2dc31egcsqTqLJ46NK0",
+          "numero": 5
+        },
+        {
+          "id": "armando_martinez_dejate_querer",
+          "titulo": "Déjate Querer",
+          "audio": "https://drive.google.com/uc?export=download&id=1VVl941yjyElPgwqmGihUAcUDLqcCpRlI",
+          "numero": 6
+        },
+        {
+          "id": "armando_martinez_digame_donde",
+          "titulo": "Dígame Dónde",
+          "audio": "https://drive.google.com/uc?export=download&id=1sWelO4JIQLvP3REaapCUbCDTdECcG2yQ",
+          "numero": 7
+        },
+        {
+          "id": "armando_martinez_el_gaban_coleador",
+          "titulo": "El Gabán Coleador",
+          "audio": "https://drive.google.com/uc?export=download&id=1ifto5lYIXYJ-FIPn62_mBkGuVxK6RWtU",
+          "numero": 8
+        },
+        {
+          "id": "armando_martinez_entro_el_invierno",
+          "titulo": "Entró el Invierno",
+          "audio": "https://drive.google.com/uc?export=download&id=1Yxhz8ahc5FkbOam9pkkK_vUMPaHMcCkT",
+          "numero": 9
+        },
+        {
+          "id": "armando_martinez_ni_que_te_aferres_a_el",
+          "titulo": "Ni Que Te Aferres a Él",
+          "audio": "https://drive.google.com/uc?export=download&id=1OtK5ROiZL1KLhDWWFRYgtP65-bWbRQ36",
+          "numero": 10
+        },
+        {
+          "id": "armando_martinez_que_mas_pedirle_a_la_vida",
+          "titulo": "Qué Más Pedirle a la Vida",
+          "audio": "https://drive.google.com/uc?export=download&id=1UuK8_5WlpFCbcGK5VsevKZ2j56gYSJOX",
+          "numero": 11
+        },
+        {
+          "id": "armando_martinez_saca_la_cuenta",
+          "titulo": "Saca la Cuenta",
+          "audio": "https://drive.google.com/uc?export=download&id=1Of8j_zxlyHPoA3oEfEy6c1qmhAIainvr",
+          "numero": 12
+        },
+        {
+          "id": "armando_martinez_y_que",
+          "titulo": "Y Qué",
+          "audio": "https://drive.google.com/uc?export=download&id=13nJ9rhklUmim0u6EpohNFOujXQmrRRLe",
+          "numero": 13
+        }
+      ]
+    },
+    {
+      "id": "pedro_emilio_sanchez_recopilacion_especial",
+      "titulo": "Recopilación Especial",
+      "artista": "Pedro Emilio Sánchez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1-j6_qEhk9p54LyZk9CXhbgwoW7b7Bd5V",
+      "descripcion": "Recopilación especial de Llano Music con canciones de Pedro Emilio Sánchez.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "titulo": "Seis por Derecho",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1pDUt-y9tWPClXTdqysO1cByipE3Iky2G"
+        },
+        {
+          "titulo": "Brisas del Guamal",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1z_c7GFW2205gvX8aSW2nk-sGyemvpibM"
+        },
+        {
+          "titulo": "Preludio de un Cabrestero",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1FtLNLT67R99IUUAEqQuFdcxXylJGhCG5"
+        },
+        {
+          "titulo": "La Luna de San Fernando",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1OwvIcGLz4XMHY8YZxF8PT-xbJVzwKdm2"
+        },
+        {
+          "titulo": "Vida Llanera",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1BxXYVvcO3VVve3vvwTKT4p9feg6Yz2Ru"
+        },
+        {
+          "titulo": "Romance Apureño",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1c-L7yDF_GRlbUoeokh3VykrHCgdToqwK"
+        },
+        {
+          "titulo": "Camino de Santa Rita",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1Cyui3axCKr5Vss406zT1WzVvFIM7oJ6x"
+        },
+        {
+          "titulo": "El Guayabo Negro",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1xyOrCF4h79dbHMg02O1zHXFF6U1HHIaf"
+        },
+        {
+          "titulo": "Romance en la Lejanía",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1flrWfksPl1T1gGqCHtZ_7XbNfy5aP-Qc"
+        },
+        {
+          "titulo": "Brisas de Apure",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1t9y7DNDMGmxOelGcZ8IZiSGeyG6XTUsp"
+        },
+        {
+          "titulo": "Las Ramas del Guayabo",
+          "artista": "Pedro Emilio Sánchez",
+          "url": "https://drive.google.com/uc?export=download&id=1gmOwgKuJ-ZXoXJgOIT3nK9W9BQLbYJoc"
+        }
+      ]
+    },
+    {
+      "id": "carlos_pantoja_recopilacion_especial",
+      "titulo": "Recopilación Especial",
+      "artista": "Carlos Pantoja",
+      "imagen": "https://drive.google.com/uc?export=download&id=1AqzPHKcbviWwfvRLKnULlAQ-s1dq5ZOp",
+      "descripcion": "Recopilación especial de Llano Music con canciones de Carlos Pantoja, El Criollo de Monasterio.",
+      "genero": "Música Llanera",
+      "anio": 2026,
+      "canciones": [
+        {
+          "titulo": "Guayabo Rotundo",
+          "artista": "Carlos Pantoja",
+          "url": "https://drive.google.com/uc?export=download&id=1tK29vZ_hI1l2cp53bD08-H8p4sZQOCiw"
+        },
+        {
+          "titulo": "Me Voy del Hato",
+          "artista": "Carlos Pantoja",
+          "url": "https://drive.google.com/uc?export=download&id=1qhpKTdsaXQArrurHCTJsyOBrk-oZ3CDM"
+        },
+        {
+          "titulo": "Mis Dos Amores",
+          "artista": "Carlos Pantoja",
+          "url": "https://drive.google.com/uc?export=download&id=1ENwih9IhVNn5COT7gNbzGCfcFcsaM_DE"
+        },
+        {
+          "titulo": "Un Paisaje de Sabana",
+          "artista": "Carlos Pantoja",
+          "url": "https://drive.google.com/uc?export=download&id=10ndj-XySwJs62hndNrQJr_PyonK0_kIZ"
+        },
+        {
+          "titulo": "La Carta",
+          "artista": "Carlos Pantoja",
+          "url": "https://drive.google.com/uc?export=download&id=1XGZdSkBlXF24ojr3rDNWC6hZynf_qMuW"
+        },
+        {
+          "titulo": "La Carta Que Me Trajeron",
+          "artista": "Carlos Pantoja",
+          "url": "https://drive.google.com/uc?export=download&id=10azyvdD-v3e7a8Lr5KuWEQkHtNENDZmC"
+        }
+      ]
     }
   ],
   "sencillos": [

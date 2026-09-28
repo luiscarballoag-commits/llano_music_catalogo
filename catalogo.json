@@ -925,32 +925,38 @@
         {
           "titulo": "Guayabo Rotundo",
           "artista": "Carlos Pantoja",
-          "url": "https://drive.google.com/uc?export=download&id=1tK29vZ_hI1l2cp53bD08-H8p4sZQOCiw"
+          "audio": "https://drive.google.com/uc?export=download&id=1tK29vZ_hI1l2cp53bD08-H8p4sZQOCiw",
+          "id": "carlos_pantoja_guayabo_rotundo"
         },
         {
           "titulo": "Me Voy del Hato",
           "artista": "Carlos Pantoja",
-          "url": "https://drive.google.com/uc?export=download&id=1qhpKTdsaXQArrurHCTJsyOBrk-oZ3CDM"
+          "audio": "https://drive.google.com/uc?export=download&id=1qhpKTdsaXQArrurHCTJsyOBrk-oZ3CDM",
+          "id": "carlos_pantoja_me_voy_del_hato"
         },
         {
           "titulo": "Mis Dos Amores",
           "artista": "Carlos Pantoja",
-          "url": "https://drive.google.com/uc?export=download&id=1ENwih9IhVNn5COT7gNbzGCfcFcsaM_DE"
+          "audio": "https://drive.google.com/uc?export=download&id=1ENwih9IhVNn5COT7gNbzGCfcFcsaM_DE",
+          "id": "carlos_pantoja_mis_dos_amores"
         },
         {
           "titulo": "Un Paisaje de Sabana",
           "artista": "Carlos Pantoja",
-          "url": "https://drive.google.com/uc?export=download&id=10ndj-XySwJs62hndNrQJr_PyonK0_kIZ"
+          "audio": "https://drive.google.com/uc?export=download&id=10ndj-XySwJs62hndNrQJr_PyonK0_kIZ",
+          "id": "carlos_pantoja_un_paisaje_de_sabana"
         },
         {
           "titulo": "La Carta",
           "artista": "Carlos Pantoja",
-          "url": "https://drive.google.com/uc?export=download&id=1XGZdSkBlXF24ojr3rDNWC6hZynf_qMuW"
+          "audio": "https://drive.google.com/uc?export=download&id=1XGZdSkBlXF24ojr3rDNWC6hZynf_qMuW",
+          "id": "carlos_pantoja_la_carta"
         },
         {
           "titulo": "La Carta Que Me Trajeron",
           "artista": "Carlos Pantoja",
-          "url": "https://drive.google.com/uc?export=download&id=10azyvdD-v3e7a8Lr5KuWEQkHtNENDZmC"
+          "audio": "https://drive.google.com/uc?export=download&id=10azyvdD-v3e7a8Lr5KuWEQkHtNENDZmC",
+          "id": "carlos_pantoja_la_carta_que_me_trajeron"
         }
       ]
     }

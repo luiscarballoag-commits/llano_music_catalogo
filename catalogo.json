@@ -1989,6 +1989,30 @@
       "imagen": "assets/images/clasicos/Ramon_Blanco.png",
       "audio": "https://drive.google.com/uc?export=download&id=1dMTAPuJ7zQII9KmropRnwUvB6vvzqhvq",
       "duracion": null
+    },
+    {
+      "id": "rafael_alvarado_dos_compadres_verso_a_verso",
+      "titulo": "Dos Compadres Verso a Verso",
+      "artista": "Rafael Alvarado",
+      "imagen": "assets/images/clasicos/Rafael_Alvarado.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1qUSHlHzWk5USWKhmLBbyhi7UQPBVFu6q",
+      "duracion": null
+    },
+    {
+      "id": "rafael_alvarado_el_gallo_que_mas_canta",
+      "titulo": "El Gallo Que Más Canta",
+      "artista": "Rafael Alvarado",
+      "imagen": "assets/images/clasicos/Rafael_Alvarado.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1Yb62F0piyMTkcdDFTrzx5tzVVLpPzCcO",
+      "duracion": null
+    },
+    {
+      "id": "rafael_alvarado_volvio_la_mujer_al_rancho",
+      "titulo": "Volvió La Mujer Al Rancho",
+      "artista": "Rafael Alvarado",
+      "imagen": "assets/images/clasicos/Rafael_Alvarado.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1eRaZTzHhMlYxK5PERVdoAZat2kbV5b9A",
+      "duracion": null
     }
   ]
 }

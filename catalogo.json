@@ -1965,6 +1965,30 @@
       "imagen": "https://drive.google.com/uc?export=download&id=15SN_oy2DHxEvV5L5TMP2aWiIO7eWqzUj",
       "genero": "Música Llanera",
       "anio": 2026
+    },
+    {
+      "id": "ramon_blanco_mi_sombrero_negro",
+      "titulo": "Mi Sombrero Negro",
+      "artista": "Ramón Blanco",
+      "imagen": "assets/images/clasicos/Ramon_Blanco.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1x1jZfYemrkdBsHHSb5yte8zbm3Mj_a7f",
+      "duracion": null
+    },
+    {
+      "id": "ramon_blanco_cantando_no_pierdo_letra",
+      "titulo": "Cantando No Pierdo Letra",
+      "artista": "Ramón Blanco",
+      "imagen": "assets/images/clasicos/Ramon_Blanco.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1xgPaMbxVKqMKnOaEMVc1Ktp-KAxhy944",
+      "duracion": null
+    },
+    {
+      "id": "ramon_blanco_dos_gallos_de_buena_raza",
+      "titulo": "Dos Gallos de Buena Raza",
+      "artista": "Ramón Blanco",
+      "imagen": "assets/images/clasicos/Ramon_Blanco.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1dMTAPuJ7zQII9KmropRnwUvB6vvzqhvq",
+      "duracion": null
     }
   ]
 }

@@ -2013,6 +2013,70 @@
       "imagen": "assets/images/clasicos/Rafael_Alvarado.png",
       "audio": "https://drive.google.com/uc?export=download&id=1eRaZTzHhMlYxK5PERVdoAZat2kbV5b9A",
       "duracion": null
+    },
+    {
+      "id": "damaso_figueredo_al_tiempo_que_me_hizo_dueno",
+      "titulo": "Al Tiempo Que Me Hizo Dueño",
+      "artista": "Dámaso Figueredo",
+      "imagen": "assets/images/clasicos/Damaso_Figueredo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1Vio6MWT8vmLlPkiuQXm6KixP7xQbksjk",
+      "duracion": null
+    },
+    {
+      "id": "damaso_figueredo_las_cuatro_culebras",
+      "titulo": "Las Cuatro Culebras",
+      "artista": "Dámaso Figueredo",
+      "imagen": "assets/images/clasicos/Damaso_Figueredo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1KKNM8zCjokWgDO4YLiap9GjaUk_JNTqc",
+      "duracion": null
+    },
+    {
+      "id": "damaso_figueredo_ando_buscando_una_viuda",
+      "titulo": "Ando Buscando una Viuda",
+      "artista": "Dámaso Figueredo",
+      "imagen": "assets/images/clasicos/Damaso_Figueredo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1h23G9tDBaPXtE6gR_oJ968PNrz_HNaw0",
+      "duracion": null
+    },
+    {
+      "id": "damaso_figueredo_despues_de_dios_un_curioso",
+      "titulo": "Después de Dios un Curioso",
+      "artista": "Dámaso Figueredo",
+      "imagen": "assets/images/clasicos/Damaso_Figueredo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1V_VqcHVHNEfRN_UjX-Yfwkq81lxOCO1e",
+      "duracion": null
+    },
+    {
+      "id": "damaso_figueredo_el_hombre_del_burro_rusio",
+      "titulo": "El Hombre del Burro Rusio",
+      "artista": "Dámaso Figueredo",
+      "imagen": "assets/images/clasicos/Damaso_Figueredo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=16TG0d6QWCXTD3aFaP5w7JJyMdq09foyN",
+      "duracion": null
+    },
+    {
+      "id": "damaso_figueredo_la_novia_fajada",
+      "titulo": "La Novia Fajada",
+      "artista": "Dámaso Figueredo",
+      "imagen": "assets/images/clasicos/Damaso_Figueredo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1Ts7xmLa1pTVggNZhCTVAJX-W2oV2HWo6",
+      "duracion": null
+    },
+    {
+      "id": "damaso_figueredo_menor_de_edad_enamorado",
+      "titulo": "Menor de Edad Enamorado",
+      "artista": "Dámaso Figueredo",
+      "imagen": "assets/images/clasicos/Damaso_Figueredo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1n93FVT6V4yiAtsTBwiTy5ybE3G7zWDl1",
+      "duracion": null
+    },
+    {
+      "id": "damaso_figueredo_ni_en_compadrazgo_ni_en_primo",
+      "titulo": "Ni En Compadrazgo, Ni En Primo",
+      "artista": "Dámaso Figueredo",
+      "imagen": "assets/images/clasicos/Damaso_Figueredo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1oW1neimhFFDdKc3n-Hv0cpm7yhVnle5u",
+      "duracion": null
     }
   ]
 }

@@ -2077,6 +2077,70 @@
       "imagen": "assets/images/clasicos/Damaso_Figueredo.png",
       "audio": "https://drive.google.com/uc?export=download&id=1oW1neimhFFDdKc3n-Hv0cpm7yhVnle5u",
       "duracion": null
+    },
+    {
+      "id": "wilmer_tovar_1a_mRG1WXUfZdRpCgkMe1hK2eFd1vTa4H",
+      "titulo": "Chicharrita Sabanera",
+      "artista": "Wilmer Tovar",
+      "audio": "https://drive.google.com/uc?export=download&id=1a_mRG1WXUfZdRpCgkMe1hK2eFd1vTa4H",
+      "imagen": "assets/images/artistas/Wilmer_Tovar.png",
+      "duracion": null
+    },
+    {
+      "id": "wilmer_tovar_1uKFl2ckXv0WKDRghQt7UYh7Y2UoGVjWe",
+      "titulo": "Al Rancho Con Mi Princesa",
+      "artista": "Wilmer Tovar",
+      "audio": "https://drive.google.com/uc?export=download&id=1uKFl2ckXv0WKDRghQt7UYh7Y2UoGVjWe",
+      "imagen": "assets/images/artistas/Wilmer_Tovar.png",
+      "duracion": null
+    },
+    {
+      "id": "wilmer_tovar_1YJz55IRiNbPikeZeX5dyjqehgt5Pn7yO",
+      "titulo": "Algún Día Estaré contigo",
+      "artista": "Wilmer Tovar",
+      "audio": "https://drive.google.com/uc?export=download&id=1YJz55IRiNbPikeZeX5dyjqehgt5Pn7yO",
+      "imagen": "assets/images/artistas/Wilmer_Tovar.png",
+      "duracion": null
+    },
+    {
+      "id": "wilmer_tovar_1Ky7dBUKGfBCjtGEHa27pyd0LA043DQFI",
+      "titulo": "Paraparo Del Camino",
+      "artista": "Wilmer Tovar",
+      "audio": "https://drive.google.com/uc?export=download&id=1Ky7dBUKGfBCjtGEHa27pyd0LA043DQFI",
+      "imagen": "assets/images/artistas/Wilmer_Tovar.png",
+      "duracion": null
+    },
+    {
+      "id": "wilmer_tovar_1v1m6EgfBlHDazHGuVxmoMzI-Z-gw9g7N",
+      "titulo": "Detallito Sabanero",
+      "artista": "Wilmer Tovar",
+      "audio": "https://drive.google.com/uc?export=download&id=1v1m6EgfBlHDazHGuVxmoMzI-Z-gw9g7N",
+      "imagen": "assets/images/artistas/Wilmer_Tovar.png",
+      "duracion": null
+    },
+    {
+      "id": "wilmer_tovar_1DehUUIKfnbbGcGUZrMMS0e1RLFwmYH5d",
+      "titulo": "Mi Criollo Zumba Que Zumba",
+      "artista": "Wilmer Tovar",
+      "audio": "https://drive.google.com/uc?export=download&id=1DehUUIKfnbbGcGUZrMMS0e1RLFwmYH5d",
+      "imagen": "assets/images/artistas/Wilmer_Tovar.png",
+      "duracion": null
+    },
+    {
+      "id": "wilmer_tovar_1Dji4oJnHp1WOngF-lJxSnZVcwEkKXcXr",
+      "titulo": "Pasajito Corta Venas",
+      "artista": "Wilmer Tovar",
+      "audio": "https://drive.google.com/uc?export=download&id=1Dji4oJnHp1WOngF-lJxSnZVcwEkKXcXr",
+      "imagen": "assets/images/artistas/Wilmer_Tovar.png",
+      "duracion": null
+    },
+    {
+      "id": "wilmer_tovar_1VccOT0SCXeZ-n3KZpGT26x1L3M5--Ivg",
+      "titulo": "Tu Recuerdo Y Mi Tristeza",
+      "artista": "Wilmer Tovar",
+      "audio": "https://drive.google.com/uc?export=download&id=1VccOT0SCXeZ-n3KZpGT26x1L3M5--Ivg",
+      "imagen": "assets/images/artistas/Wilmer_Tovar.png",
+      "duracion": null
     }
   ]
 }

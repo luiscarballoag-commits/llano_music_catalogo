@@ -1045,6 +1045,14 @@
   ],
   "sencillos": [
     {
+      "id": "jesus_moreno_amiga_novia_y_amante",
+      "titulo": "Amiga, Novia y Amante",
+      "artista": "Jesús Moreno",
+      "imagen": "assets/images/clasicos/Jesus_Moreno.png",
+      "audio": "https://drive.google.com/uc?export=download&id=164bzHCJS-98T9sZeX2y63GYCwFc4oSuE",
+      "duracion": null
+    },
+    {
       "id": "jorge_guerrero_las_tardes_grises_de_junio",
       "titulo": "Las Tardes Grises de Junio",
       "artista": "Jorge Guerrero",

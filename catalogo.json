@@ -2597,6 +2597,46 @@
       "audio": "https://drive.google.com/uc?export=download&id=1Swa6Em_SeVoW0ArZOsXhWFdvTYtQ_HP0",
       "imagen": "assets/images/clasicos/Teo_Galindez.png",
       "duracion": null
+    },
+    {
+      "id": "santiago_rojas_1_o40YEOVVJEBnhgwiY4a0PLikjSeT4v7",
+      "titulo": "El Cristofue",
+      "artista": "Santiago Rojas",
+      "audio": "https://drive.google.com/uc?export=download&id=1_o40YEOVVJEBnhgwiY4a0PLikjSeT4v7",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_1qajVoBfMC4HGsgd541kqljy1fxLipp5H",
+      "titulo": "El Juego De La Avioneta",
+      "artista": "Santiago Rojas",
+      "audio": "https://drive.google.com/uc?export=download&id=1qajVoBfMC4HGsgd541kqljy1fxLipp5H",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_1vSmvMGeponsMHTI3-VPfoyFM5oo_axRB",
+      "titulo": "La Pervesa Noemy",
+      "artista": "Santiago Rojas",
+      "audio": "https://drive.google.com/uc?export=download&id=1vSmvMGeponsMHTI3-VPfoyFM5oo_axRB",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_1yH3PxWoYGAbcpBc5QVrjCyKn1HdIfmSl",
+      "titulo": "La Viuda Millonaria",
+      "artista": "Santiago Rojas",
+      "audio": "https://drive.google.com/uc?export=download&id=1yH3PxWoYGAbcpBc5QVrjCyKn1HdIfmSl",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_18_s07L8c4KNgC9ukBkDs_zyUApfr1tsE",
+      "titulo": "Sirvienta India",
+      "artista": "Santiago Rojas",
+      "audio": "https://drive.google.com/uc?export=download&id=18_s07L8c4KNgC9ukBkDs_zyUApfr1tsE",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "duracion": null
     }
   ]
 }

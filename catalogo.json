@@ -1045,6 +1045,54 @@
   ],
   "sencillos": [
     {
+      "id": "luis_lozada_la_lanza_de_urica",
+      "titulo": "La Lanza De Urica",
+      "artista": "Luis Lozada",
+      "audio": "https://drive.google.com/uc?export=download&id=1nYkQEpqyyy0qtN3SJ8TkkcuxHGNKXi-8",
+      "imagen": "assets/images/clasicos/Luis Lozada.png",
+      "duracion": null
+    },
+    {
+      "id": "luis_lozada_cabalgando_en_mi_tristeza",
+      "titulo": "Cabalgando En Mi Tristeza",
+      "artista": "Luis Lozada",
+      "audio": "https://drive.google.com/uc?export=download&id=1Uco98GKKFJpjyaUoyFiBpg4JZ4DVuuXM",
+      "imagen": "assets/images/clasicos/Luis Lozada.png",
+      "duracion": null
+    },
+    {
+      "id": "luis_lozada_compadre_gerardo_brito",
+      "titulo": "Compadre Gerardo Brito",
+      "artista": "Luis Lozada",
+      "audio": "https://drive.google.com/uc?export=download&id=1VAswadrjPKiHaHikHCvwPGcib1Slq8xZ",
+      "imagen": "assets/images/clasicos/Luis Lozada.png",
+      "duracion": null
+    },
+    {
+      "id": "luis_lozada_arpa_bandola_y_joropo",
+      "titulo": "Arpa, Bandola y Joropo",
+      "artista": "Luis Lozada",
+      "audio": "https://drive.google.com/uc?export=download&id=1ThnSTA024SIiAzhYKAp1P9jGHfR5TM2J",
+      "imagen": "assets/images/clasicos/Luis Lozada.png",
+      "duracion": null
+    },
+    {
+      "id": "luis_lozada_sentimiento_en_el_palmar",
+      "titulo": "Sentimiento En El Palmar",
+      "artista": "Luis Lozada",
+      "audio": "https://drive.google.com/uc?export=download&id=1girRTLjprprbGa40sctLzvd4VcKMN1O1",
+      "imagen": "assets/images/clasicos/Luis Lozada.png",
+      "duracion": null
+    },
+    {
+      "id": "luis_lozada_malaya_un_camino_largo",
+      "titulo": "Malaya Un Camino Largo",
+      "artista": "Luis Lozada",
+      "audio": "https://drive.google.com/uc?export=download&id=1dlp6cAzb500Od3kioqaDbA4jyf2ZXWIX",
+      "imagen": "assets/images/clasicos/Luis Lozada.png",
+      "duracion": null
+    },
+    {
       "id": "el_carrao_de_palmarito_furia",
       "titulo": "Furia",
       "artista": "Juan de los Santos Contreras",

@@ -1045,6 +1045,46 @@
   ],
   "sencillos": [
     {
+      "id": "cheo_hernandez_prisco_chica_de_mi_barrio",
+      "titulo": "Chica De Mi Barrio",
+      "artista": "Cheo Hernández Prisco",
+      "audio": "https://drive.google.com/uc?export=download&id=18VNbrXIByL-3T-kZo041J8n6cRvdrK-S",
+      "imagen": "assets/images/clasicos/Cheo_Hernandez_Prisco.png",
+      "duracion": null
+    },
+    {
+      "id": "cheo_hernandez_prisco_tristeza_de_un_coleador",
+      "titulo": "Tristeza De Un Coleador",
+      "artista": "Cheo Hernández Prisco",
+      "audio": "https://drive.google.com/uc?export=download&id=1-vReAQg2FmsR5HxrDIyXuDBvk_B6SiI5",
+      "imagen": "assets/images/clasicos/Cheo_Hernandez_Prisco.png",
+      "duracion": null
+    },
+    {
+      "id": "cheo_hernandez_prisco_sin_ella_no_vivo",
+      "titulo": "Sin Ella No Vivo",
+      "artista": "Cheo Hernández Prisco",
+      "audio": "https://drive.google.com/uc?export=download&id=1Dc_IpTVkUbZf2IexF6Uiue7mfWoQJzgk",
+      "imagen": "assets/images/clasicos/Cheo_Hernandez_Prisco.png",
+      "duracion": null
+    },
+    {
+      "id": "cheo_hernandez_prisco_la_novia_del_coleador",
+      "titulo": "La Novia Del Coleador",
+      "artista": "Cheo Hernández Prisco",
+      "audio": "https://drive.google.com/uc?export=download&id=1TZzPZdeh-KQUStbwqpXs1Oy6cxQqctq1",
+      "imagen": "assets/images/clasicos/Cheo_Hernandez_Prisco.png",
+      "duracion": null
+    },
+    {
+      "id": "cheo_hernandez_prisco_nuestro_amor_es_el_destino",
+      "titulo": "Nuestro Amor Es El Destino",
+      "artista": "Cheo Hernández Prisco",
+      "audio": "https://drive.google.com/uc?export=download&id=1JKWvRqY--IAPEmylE_OkZo4pme6yH0Ku",
+      "imagen": "assets/images/clasicos/Cheo_Hernandez_Prisco.png",
+      "duracion": null
+    },
+    {
       "id": "luis_lozada_la_lanza_de_urica",
       "titulo": "La Lanza De Urica",
       "artista": "Luis Lozada",

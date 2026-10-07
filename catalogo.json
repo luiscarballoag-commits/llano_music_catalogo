@@ -1045,6 +1045,13 @@
   ],
   "sencillos": [
     {
+      "id": "juan_farfan_la_camisa_conuquera",
+      "titulo": "La Camisa Conuquera",
+      "artista": "Juan Farfán",
+      "imagen": "assets/images/clasicos/Juan_Farfan.png",
+      "url": "https://drive.google.com/uc?export=download&id=1iCaoX2hmH1571qLc56SsAf2PQPAFI5NI"
+    },
+    {
       "id": "cheo_hernandez_prisco_chica_de_mi_barrio",
       "titulo": "Chica De Mi Barrio",
       "artista": "Cheo Hernández Prisco",

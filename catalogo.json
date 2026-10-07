@@ -1045,6 +1045,38 @@
   ],
   "sencillos": [
     {
+      "id": "angel_custodio_loyola_las_ramas_del_guayabo",
+      "titulo": "Las Ramas del Guayabo",
+      "artista": "Ángel Custodio Loyola",
+      "imagen": "assets/images/clasicos/Angel_Custodio_Loyola.png",
+      "audio": "https://drive.google.com/uc?export=download&id=13bXoqKxE4ncvbVX51rs7gfEQrjequyxj",
+      "duracion": null
+    },
+    {
+      "id": "angel_custodio_loyola_mis_martirios",
+      "titulo": "Mis Martirios",
+      "artista": "Ángel Custodio Loyola",
+      "imagen": "assets/images/clasicos/Angel_Custodio_Loyola.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1TAfcNF7zgpqepkfFVe8RCWfuXAI9HWSd",
+      "duracion": null
+    },
+    {
+      "id": "angel_custodio_loyola_libertad_de_barinas",
+      "titulo": "Libertad de Barinas",
+      "artista": "Ángel Custodio Loyola",
+      "imagen": "assets/images/clasicos/Angel_Custodio_Loyola.png",
+      "audio": "https://drive.google.com/uc?export=download&id=17VauDSrcvtFpzy-KSaaOe4McNFUENuJe",
+      "duracion": null
+    },
+    {
+      "id": "angel_custodio_loyola_cajon_de_arauca_apureno",
+      "titulo": "Cajón de Arauca Apureño",
+      "artista": "Ángel Custodio Loyola",
+      "imagen": "assets/images/clasicos/Angel_Custodio_Loyola.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1UTrFLqdSAjSJfBBYBFyL3ZykR79m05ay",
+      "duracion": null
+    },
+    {
       "id": "eneas_perdomo_adios_barrancas_de_arauca",
       "titulo": "Adiós Barrancas de Arauca",
       "artista": "Eneas Perdomo",

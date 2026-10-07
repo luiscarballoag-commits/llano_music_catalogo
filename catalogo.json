@@ -1045,6 +1045,97 @@
   ],
   "sencillos": [
     {
+      "id": "jorge_guerrero_guayabo_de_mes_y_pico",
+      "titulo": "Guayabo de Mes y Pico",
+      "artista": "Jorge Guerrero",
+      "imagen": "assets/images/clasicos/Jorge_Guerrero.png",
+      "url": "https://drive.google.com/uc?export=download&id=1l9drYQQFZ_zOXIBzPvuZ15ZxoR2yBj9p"
+    },
+    {
+      "id": "reynaldo_armas_laguna_vieja",
+      "titulo": "Laguna Vieja",
+      "artista": "Reynaldo Armas",
+      "imagen": "assets/images/clasicos/Reynaldo_Armas.png",
+      "url": "https://drive.google.com/uc?export=download&id=1HLtH9kW_WpFh4kFEftcugq9Gczayd-rm"
+    },
+    {
+      "id": "elisa_guerrero_amor_en_secreto",
+      "titulo": "Amor en secreto",
+      "artista": "Elisa Guerrero",
+      "imagen": "assets/images/clasicos/Elisa_Guerrero.png",
+      "url": "https://drive.google.com/uc?export=download&id=1KgSwdWT2uF_8KmoqcpU167xuAlLRq8zq"
+    },
+    {
+      "id": "elisa_guerrero_elorzanito",
+      "titulo": "Elorzanito",
+      "artista": "Elisa Guerrero",
+      "imagen": "assets/images/clasicos/Elisa_Guerrero.png",
+      "url": "https://drive.google.com/uc?export=download&id=1bj3Jpg7Bm5dfZXQtgeeUur98VgrcwR87"
+    },
+    {
+      "id": "elisa_guerrero_un_guayabo_motolito",
+      "titulo": "Un Guayabo Motolito",
+      "artista": "Elisa Guerrero",
+      "imagen": "assets/images/clasicos/Elisa_Guerrero.png",
+      "url": "https://drive.google.com/uc?export=download&id=1yQg7fV0aBpiVV2cGsGJF6_NDf6JjhKxq"
+    },
+    {
+      "id": "cristina_maica_hojas_secas",
+      "titulo": "Hojas Secas",
+      "artista": "Cristina Maica",
+      "imagen": "assets/images/clasicos/La Vecina_20260709_102854_0000.png",
+      "url": "https://drive.google.com/uc?export=download&id=12hBmKrnIrxwGdB_U0YjL_orGUySEiBGp"
+    },
+    {
+      "id": "cristina_maica_nuestra_intimidad",
+      "titulo": "Nuestra Intimidad",
+      "artista": "Cristina Maica",
+      "imagen": "assets/images/clasicos/La Vecina_20260709_102854_0000.png",
+      "url": "https://drive.google.com/uc?export=download&id=1aThg4LOP3OOramWeauFsBGIFsXoT1SE1"
+    },
+    {
+      "id": "cristina_maica_amor_y_error",
+      "titulo": "Amor y Error",
+      "artista": "Cristina Maica",
+      "imagen": "assets/images/clasicos/La Vecina_20260709_102854_0000.png",
+      "url": "https://drive.google.com/uc?export=download&id=1v54CFdEAA5jAYsHti9WxeYodd3KVnCsH"
+    },
+    {
+      "id": "cristina_maica_sangre_apurena",
+      "titulo": "Sangre Apureña",
+      "artista": "Cristina Maica",
+      "imagen": "assets/images/clasicos/La Vecina_20260709_102854_0000.png",
+      "url": "https://drive.google.com/uc?export=download&id=1WJkJ-YI80xK61URcRoxughn7cV6lwxeJ"
+    },
+    {
+      "id": "reyna_lucero_carrao_carrao",
+      "titulo": "Carrao Carrao",
+      "artista": "Reyna Lucero",
+      "imagen": "assets/images/clasicos/Reina_Lucero.png",
+      "url": "https://drive.google.com/uc?export=download&id=1YvJVd9INGdcTbQ0QhgJtk9aAetwbzNpu"
+    },
+    {
+      "id": "reyna_lucero_aires_de_mi_tierra",
+      "titulo": "Aires De Mi Tierra",
+      "artista": "Reyna Lucero",
+      "imagen": "assets/images/clasicos/Reina_Lucero.png",
+      "url": "https://drive.google.com/uc?export=download&id=1l6l5yav5gKqMm8uXZXZyasY5PzislnfH"
+    },
+    {
+      "id": "reyna_lucero_el_canario_del_limon",
+      "titulo": "El Canario Del Limón",
+      "artista": "Reyna Lucero",
+      "imagen": "assets/images/clasicos/Reina_Lucero.png",
+      "url": "https://drive.google.com/uc?export=download&id=1BHiqnDDAyBUIPPMuZVoa1y5FpMIqOM5I"
+    },
+    {
+      "id": "reyna_lucero_garceros_de_soledad",
+      "titulo": "Garceros De Soledad",
+      "artista": "Reyna Lucero",
+      "imagen": "assets/images/clasicos/Reina_Lucero.png",
+      "url": "https://drive.google.com/uc?export=download&id=1BWMJTauATxqG4TOcQRw0zTPyFKF26jNR"
+    },
+    {
       "id": "juan_farfan_la_camisa_conuquera",
       "titulo": "La Camisa Conuquera",
       "artista": "Juan Farfán",
@@ -1344,7 +1435,7 @@
       "titulo": "El Peón Enamorado",
       "artista": "Jorge Guerrero",
       "imagen": "assets/images/clasicos/Jorge_Guerrero.png",
-      "audio": "https://drive.google.com/uc?export=download&id=1pIwIVWMN3Ruw9Co54KVJQEfKMyrVpvc-",
+      "audio": "https://drive.google.com/uc?export=download&id=1oH7S9Fr-S3MFnlWnfXE0scqb4hsIF1Gn",
       "duracion": null
     },
     {
@@ -2932,6 +3023,54 @@
       "audio": "https://drive.google.com/uc?export=download&id=1VXK161HUIpAw5tUHj4QyfyPtwy_CWzdS",
       "imagen": "assets/images/clasicos/Jesus_Moreno.png",
       "duracion": null
+    },
+    {
+      "titulo": "No Me Provoques",
+      "artista": "Julio Miranda",
+      "imagen": "assets/images/clasicos/Julio_Miranda.png",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=19qTQa8t9dDpTalrprmJHC5Oej-2cEonh"
+    },
+    {
+      "titulo": "La Tarde Me Trae Recuerdos",
+      "artista": "Julio Miranda",
+      "imagen": "assets/images/clasicos/Julio_Miranda.png",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=14hn3wdNoD7ulVN8wT3Q1oXrRC1f5m_h8"
+    },
+    {
+      "titulo": "Escucha Mi Serenata",
+      "artista": "Julio Miranda",
+      "imagen": "assets/images/clasicos/Julio_Miranda.png",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1r9Lcn0H6DzITI7yxrCUHiilygANjtzA8"
+    },
+    {
+      "titulo": "Egoísmo",
+      "artista": "Julio Miranda",
+      "imagen": "assets/images/clasicos/Julio_Miranda.png",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1Qkpkltef2VEXNWnsm0v3ASXpOdN0Q9EP"
+    },
+    {
+      "titulo": "Ella Fue",
+      "artista": "Julio Miranda",
+      "imagen": "assets/images/clasicos/Julio_Miranda.png",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1GAWEfFD-Thc9-oJf9HafdwpP5ZcQOu8x"
+    },
+    {
+      "titulo": "Lamento Guaiqueri",
+      "artista": "Julio Miranda",
+      "imagen": "assets/images/clasicos/Julio_Miranda.png",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1JkGH4MXz9w_ibwAWbqL6cNFmhjVF4JgH"
+    },
+    {
+      "titulo": "Consejo De Copas",
+      "artista": "Julio Miranda",
+      "imagen": "assets/images/clasicos/Julio_Miranda.png",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1tKyrzx5Gs6DVK4k6VgWN7xKaq8RErXyB"
+    },
+    {
+      "titulo": "Así Es La Vida",
+      "artista": "Julio Miranda",
+      "imagen": "assets/images/clasicos/Julio_Miranda.png",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1EboRoNKqzg3AADLzabLnxKJHu4R2UV9U"
     }
   ]
 }

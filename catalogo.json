@@ -1045,6 +1045,46 @@
   ],
   "sencillos": [
     {
+      "id": "eneas_perdomo_adios_barrancas_de_arauca",
+      "titulo": "Adiós Barrancas de Arauca",
+      "artista": "Eneas Perdomo",
+      "imagen": "assets/images/clasicos/Eneas_Perdomo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1lSR6nGOteKrYDRtWXqK3gZznA_Fo6Aeq",
+      "duracion": null
+    },
+    {
+      "id": "eneas_perdomo_anorando_tu_regreso",
+      "titulo": "Añorando Tu Regreso",
+      "artista": "Eneas Perdomo",
+      "imagen": "assets/images/clasicos/Eneas_Perdomo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1pKQiYUTdz0gdgMugoRIsmuHigZ1_vuJU",
+      "duracion": null
+    },
+    {
+      "id": "eneas_perdomo_ondas_del_capanaparo",
+      "titulo": "Ondas del Capanaparo",
+      "artista": "Eneas Perdomo",
+      "imagen": "assets/images/clasicos/Eneas_Perdomo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1r48X0mGHqt5swBHPCh2EkCHLyN2qX7wy",
+      "duracion": null
+    },
+    {
+      "id": "eneas_perdomo_semana_santa_en_achaguas",
+      "titulo": "Semana Santa en Achaguas",
+      "artista": "Eneas Perdomo",
+      "imagen": "assets/images/clasicos/Eneas_Perdomo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1ZM1eGfXogtTwux8PIae3IEq4_JZxbxhV",
+      "duracion": null
+    },
+    {
+      "id": "eneas_perdomo_sin_tu_adios",
+      "titulo": "Sin Tu Adiós",
+      "artista": "Eneas Perdomo",
+      "imagen": "assets/images/clasicos/Eneas_Perdomo.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1iHp1svKBq6zGLNS8Ck3EVBs1xRZLsL09",
+      "duracion": null
+    },
+    {
       "id": "francisco_montoya_sentimiento_apureno",
       "titulo": "Sentimiento Apureño",
       "artista": "Francisco Montoya",

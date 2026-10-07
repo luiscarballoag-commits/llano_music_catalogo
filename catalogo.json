@@ -1045,6 +1045,22 @@
   ],
   "sencillos": [
     {
+      "id": "teo_galindez_para_toda_la_vida",
+      "titulo": "Para Toda la Vida",
+      "artista": "Teo Galíndez",
+      "audio": "https://drive.google.com/uc?export=download&id=1-tOdWZxV-j21-SyuG35q3DNVWwSc31VV",
+      "imagen": "assets/images/clasicos/Teo_Galindez.png",
+      "duracion": null
+    },
+    {
+      "id": "teo_galindez_rios_de_cana",
+      "titulo": "Ríos de Caña",
+      "artista": "Teo Galíndez",
+      "audio": "https://drive.google.com/uc?export=download&id=1zY_vy5ox-hLcNs6DYwoxTyooHiLpMK4x",
+      "imagen": "assets/images/clasicos/Teo_Galindez.png",
+      "duracion": null
+    },
+    {
       "id": "angel_custodio_loyola_las_ramas_del_guayabo",
       "titulo": "Las Ramas del Guayabo",
       "artista": "Ángel Custodio Loyola",

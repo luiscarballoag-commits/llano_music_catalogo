@@ -3028,49 +3028,65 @@
       "titulo": "No Me Provoques",
       "artista": "Julio Miranda",
       "imagen": "assets/images/clasicos/Julio_Miranda.png",
-      "audioUrl": "https://drive.google.com/uc?export=download&id=19qTQa8t9dDpTalrprmJHC5Oej-2cEonh"
+      "audio": "https://drive.google.com/uc?export=download&id=19qTQa8t9dDpTalrprmJHC5Oej-2cEonh",
+      "id": "julio_miranda_no_me_provoques",
+      "duracion": null
     },
     {
       "titulo": "La Tarde Me Trae Recuerdos",
       "artista": "Julio Miranda",
       "imagen": "assets/images/clasicos/Julio_Miranda.png",
-      "audioUrl": "https://drive.google.com/uc?export=download&id=14hn3wdNoD7ulVN8wT3Q1oXrRC1f5m_h8"
+      "audio": "https://drive.google.com/uc?export=download&id=14hn3wdNoD7ulVN8wT3Q1oXrRC1f5m_h8",
+      "id": "julio_miranda_la_tarde_me_trae_recuerdos",
+      "duracion": null
     },
     {
       "titulo": "Escucha Mi Serenata",
       "artista": "Julio Miranda",
       "imagen": "assets/images/clasicos/Julio_Miranda.png",
-      "audioUrl": "https://drive.google.com/uc?export=download&id=1r9Lcn0H6DzITI7yxrCUHiilygANjtzA8"
+      "audio": "https://drive.google.com/uc?export=download&id=1r9Lcn0H6DzITI7yxrCUHiilygANjtzA8",
+      "id": "julio_miranda_escucha_mi_serenata",
+      "duracion": null
     },
     {
       "titulo": "Egoísmo",
       "artista": "Julio Miranda",
       "imagen": "assets/images/clasicos/Julio_Miranda.png",
-      "audioUrl": "https://drive.google.com/uc?export=download&id=1Qkpkltef2VEXNWnsm0v3ASXpOdN0Q9EP"
+      "audio": "https://drive.google.com/uc?export=download&id=1Qkpkltef2VEXNWnsm0v3ASXpOdN0Q9EP",
+      "id": "julio_miranda_egoismo",
+      "duracion": null
     },
     {
       "titulo": "Ella Fue",
       "artista": "Julio Miranda",
       "imagen": "assets/images/clasicos/Julio_Miranda.png",
-      "audioUrl": "https://drive.google.com/uc?export=download&id=1GAWEfFD-Thc9-oJf9HafdwpP5ZcQOu8x"
+      "audio": "https://drive.google.com/uc?export=download&id=1GAWEfFD-Thc9-oJf9HafdwpP5ZcQOu8x",
+      "id": "julio_miranda_ella_fue",
+      "duracion": null
     },
     {
       "titulo": "Lamento Guaiqueri",
       "artista": "Julio Miranda",
       "imagen": "assets/images/clasicos/Julio_Miranda.png",
-      "audioUrl": "https://drive.google.com/uc?export=download&id=1JkGH4MXz9w_ibwAWbqL6cNFmhjVF4JgH"
+      "audio": "https://drive.google.com/uc?export=download&id=1JkGH4MXz9w_ibwAWbqL6cNFmhjVF4JgH",
+      "id": "julio_miranda_lamento_guaiqueri",
+      "duracion": null
     },
     {
       "titulo": "Consejo De Copas",
       "artista": "Julio Miranda",
       "imagen": "assets/images/clasicos/Julio_Miranda.png",
-      "audioUrl": "https://drive.google.com/uc?export=download&id=1tKyrzx5Gs6DVK4k6VgWN7xKaq8RErXyB"
+      "audio": "https://drive.google.com/uc?export=download&id=1tKyrzx5Gs6DVK4k6VgWN7xKaq8RErXyB",
+      "id": "julio_miranda_consejo_de_copas",
+      "duracion": null
     },
     {
       "titulo": "Así Es La Vida",
       "artista": "Julio Miranda",
       "imagen": "assets/images/clasicos/Julio_Miranda.png",
-      "audioUrl": "https://drive.google.com/uc?export=download&id=1EboRoNKqzg3AADLzabLnxKJHu4R2UV9U"
+      "audio": "https://drive.google.com/uc?export=download&id=1EboRoNKqzg3AADLzabLnxKJHu4R2UV9U",
+      "id": "julio_miranda_asi_es_la_vida",
+      "duracion": null
     }
   ]
 }

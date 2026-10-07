@@ -1045,6 +1045,62 @@
   ],
   "sencillos": [
     {
+      "id": "francisco_montoya_sentimiento_apureno",
+      "titulo": "Sentimiento Apureño",
+      "artista": "Francisco Montoya",
+      "imagen": "assets/images/clasicos/Francisco Montoya.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1Vb5Ti7_gVe_3C6dsfJ7DCicrQJloFbzc",
+      "duracion": null
+    },
+    {
+      "id": "francisco_montoya_entre_las_copas_de_vino",
+      "titulo": "Entre las Copas de Vino",
+      "artista": "Francisco Montoya",
+      "imagen": "assets/images/clasicos/Francisco Montoya.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1FOfIMhz59so0iNerXR260w8Z_FM2wLEz",
+      "duracion": null
+    },
+    {
+      "id": "francisco_montoya_ligia",
+      "titulo": "Ligia",
+      "artista": "Francisco Montoya",
+      "imagen": "assets/images/clasicos/Francisco Montoya.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1d_S28unoyPaKAW8ETgqcEEBsu5zGy4bJ",
+      "duracion": null
+    },
+    {
+      "id": "francisco_montoya_romance_apureno",
+      "titulo": "Romance Apureño",
+      "artista": "Francisco Montoya",
+      "imagen": "assets/images/clasicos/Francisco Montoya.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1G7tB0_uHq3Id1CZ_-G3Xgev3vuiJVe0L",
+      "duracion": null
+    },
+    {
+      "id": "francisco_montoya_oracion_al_padre_eterno",
+      "titulo": "Oración al Padre Eterno",
+      "artista": "Francisco Montoya",
+      "imagen": "assets/images/clasicos/Francisco Montoya.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1mvVdKWjSymbk_2mJ28Jvg2OUIOY0QZ8x",
+      "duracion": null
+    },
+    {
+      "id": "francisco_montoya_dolor_en_el_caney",
+      "titulo": "Dolor en el Caney",
+      "artista": "Francisco Montoya",
+      "imagen": "assets/images/clasicos/Francisco Montoya.png",
+      "audio": "https://drive.google.com/uc?export=download&id=18ssCridtkYahMkPUGOeU6axmxTaupP7_",
+      "duracion": null
+    },
+    {
+      "id": "francisco_montoya_el_guayabo_borracho",
+      "titulo": "El Guayabo Borracho",
+      "artista": "Francisco Montoya",
+      "imagen": "assets/images/clasicos/Francisco Montoya.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1KktFBvKGgaioDNKmj1qG9rQ5I8bwpGIB",
+      "duracion": null
+    },
+    {
       "id": "jesus_moreno_amiga_novia_y_amante",
       "titulo": "Amiga, Novia y Amante",
       "artista": "Jesús Moreno",

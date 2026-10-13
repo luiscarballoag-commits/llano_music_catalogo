@@ -3613,6 +3613,478 @@
       "audio": "https://drive.google.com/uc?export=download&id=1JuAUZa-u98PLy2qFNPJuJW7uiuYCH_5b",
       "imagen": "https://drive.google.com/uc?export=download&id=1t_Ecr4torTylBJLBC3h5F-u8RNZM8HAy",
       "duracion": null
+    },
+    {
+      "id": "yohan_casadiego_no_soy_un_concha_de_ajo",
+      "titulo": "No Soy Un Concha De Ajo",
+      "artista": "Yohan Casadiego",
+      "imagen": "assets/images/artistas/Yohan_Casadiego.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1XOTPkd7gWbFNQvuW7xuLkftLGIqnCck9",
+      "duracion": null
+    },
+    {
+      "id": "yohan_casadiego_me_pediste_que_te_olvide",
+      "titulo": "Me Pediste Que Te Olvide",
+      "artista": "Yohan Casadiego",
+      "imagen": "assets/images/artistas/Yohan_Casadiego.png",
+      "audio": "https://drive.google.com/uc?export=download&id=11D8P__JOKkS_lcssmJebnbKEVuHdmbmm",
+      "duracion": null
+    },
+    {
+      "id": "yohan_casadiego_tendre_que_bajar_la_cara",
+      "titulo": "Tendré Que Bajar La Cara",
+      "artista": "Yohan Casadiego",
+      "imagen": "assets/images/artistas/Yohan_Casadiego.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1kO8vB0ztO5YJhUrJejVovuhHZQDx47ho",
+      "duracion": null
+    },
+    {
+      "id": "yohan_casadiego_agua_con_tacamajaca",
+      "titulo": "Agua Con Tacamajaca",
+      "artista": "Yohan Casadiego",
+      "imagen": "assets/images/artistas/Yohan_Casadiego.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1fPeimX-FVk6Dbeo0DfLxjd4lkR0Jcb2D",
+      "duracion": null
+    },
+    {
+      "id": "yohan_casadiego_el_borracho",
+      "titulo": "El Borracho",
+      "artista": "Yohan Casadiego",
+      "imagen": "assets/images/artistas/Yohan_Casadiego.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1V00MJqcGp5LhD1mpHSXALDxn30B9KxeJ",
+      "duracion": null
+    },
+    {
+      "id": "yohan_casadiego_guayabo_de_otros_tiempos",
+      "titulo": "Guayabo De Otros Tiempos",
+      "artista": "Yohan Casadiego",
+      "imagen": "assets/images/artistas/Yohan_Casadiego.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1ksYh62Rh6ZamNYkWekLKqT7UL0gzZAu8",
+      "duracion": null
+    },
+    {
+      "id": "yohan_casadiego_me_voy_porque_me_corrieron",
+      "titulo": "Me Voy Porque Me Corrieron",
+      "artista": "Yohan Casadiego",
+      "imagen": "assets/images/artistas/Yohan_Casadiego.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1JhTCeF6vBzp_Z9byQHnHElz1s2bUdYOY",
+      "duracion": null
+    },
+    {
+      "id": "yohan_casadiego_te_tengo_que_olvidar",
+      "titulo": "Te Tengo Que Olvidar",
+      "artista": "Yohan Casadiego",
+      "imagen": "assets/images/artistas/Yohan_Casadiego.png",
+      "audio": "https://drive.google.com/uc?export=download&id=19mveKS8nzrgBgaG0AIrgKSMc3TSDG56a",
+      "duracion": null
+    },
+    {
+      "id": "yohan_casadiego_vente_conmigo",
+      "titulo": "Vente Conmigo",
+      "artista": "Yohan Casadiego",
+      "imagen": "assets/images/artistas/Yohan_Casadiego.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1uF3N6rLWa9M-TTkKIFO9GoW9gFrv9MtY",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_a_mi_no_me_corre_bulla",
+      "titulo": "A Mí No Me Corre Bulla",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1rG0yQ_bLfqj7zwk6JphZpxMqVUQ25OV6",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_con_carino_a_mi_tio_damaso",
+      "titulo": "Con Cariño A Mi Tío Dámaso",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1zO0T3L1vHUhv7k1h32PPv1iGL5HMkXmf",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_parte_de_lo_que_he_vivido",
+      "titulo": "Parte De Lo Que He Vivido",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1JsU_K7WkZUQlx0XLLISzNzYp50Q2vXN_",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_venga_pa_cojedes",
+      "titulo": "Venga Pa' Cojedes",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=10wapx7G9wTbYewkPiqYss6JqQZv4q5gn",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_la_chispa_de_teodorote",
+      "titulo": "La Chispa De Teodorote",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1oLgMZYoyP6YlZDqRWgi2RmFE_tTPA8h5",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_el_novio_de_maria_casquito",
+      "titulo": "El Novio De María Casquito",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1k_a_LfVoy4VRPeLOCUJXXUCUCMc2gkK-",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_el_mangaso_de_las_chicas",
+      "titulo": "El Mangaso De Las Chicas",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1h9oco7jxTsllEy0i_AAgWqClirMc4I3i",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_la_negra_pata_pal_monte",
+      "titulo": "La Negra Pata Pal Monte",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1ttIFoyRorOiYrFjvPi-AMbXXY_ujh-JP",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_me_enamore_en_las_madrinas",
+      "titulo": "Me Enamore en Las Madrinas",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1u9sLlxOq8mp6yMVnrsT04coqTVguAtoI",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_enamorao_en_tinaco",
+      "titulo": "Enamorao En Tinaco",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1SJbisj4iWuOo2z0lpHFXyIMb6fgOuwmU",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_teodorote_ii",
+      "titulo": "Teodorote II",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1fo6YSxCXUpZGPmxP51mj6yMpnFNY_wq6",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_me_la_quito_mi_compadre",
+      "titulo": "Me La Quito Mi Compadre",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1eTB2FONxZqlzrtPYenUiWxg24bwPjsms",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_morenita_encantadora",
+      "titulo": "Morenita Encantadora",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1zx4w60DBv5_IrUYvQqpXg4zNf2EdZwxR",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_el_coplero_lengua_mocha",
+      "titulo": "El Coplero Lengua Mocha",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1iUpcd3iZetDxFb3y0P43y_00JB8I9mzD",
+      "duracion": null
+    },
+    {
+      "id": "rafael_garrido_vergatario_desde_sute",
+      "titulo": "Vergatario Desde Sute",
+      "artista": "Rafael Garrido",
+      "imagen": "https://drive.google.com/uc?export=download&id=1G1CSIVC1kdzxSIpEt0f8tQoPyiVjfj02",
+      "audio": "https://drive.google.com/uc?export=download&id=1R3uJg7rmxY4YN00VzUW17lgQigq1dbjk",
+      "duracion": null
+    },
+    {
+      "id": "pedro-rodr-guez-amor-oculto",
+      "titulo": "Amor Oculto",
+      "artista": "Pedro Rodríguez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1hhPdxZXGRCZo8hkamSkpCiIh6yrumaJF",
+      "audio": "https://drive.google.com/uc?export=download&id=1HOgKqlsRL44v_Nphk8LZCL9xTy3mR9sw",
+      "duracion": null
+    },
+    {
+      "id": "pedro-rodr-guez-brindis-al-matiyure",
+      "titulo": "Brindis Al Matiyure",
+      "artista": "Pedro Rodríguez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1hhPdxZXGRCZo8hkamSkpCiIh6yrumaJF",
+      "audio": "https://drive.google.com/uc?export=download&id=1G3FkN1QiTWvAe3x8zukhXesHr2esYoL2",
+      "duracion": null
+    },
+    {
+      "id": "pedro-rodr-guez-el-caser-o",
+      "titulo": "El Caserío",
+      "artista": "Pedro Rodríguez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1hhPdxZXGRCZo8hkamSkpCiIh6yrumaJF",
+      "audio": "https://drive.google.com/uc?export=download&id=1WNIqXxCyRQlUDQ_cw61t7h4fAazp2zrV",
+      "duracion": null
+    },
+    {
+      "id": "pedro-rodr-guez-el-gavil-n-colorao",
+      "titulo": "El Gavilán Colorao",
+      "artista": "Pedro Rodríguez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1hhPdxZXGRCZo8hkamSkpCiIh6yrumaJF",
+      "audio": "https://drive.google.com/uc?export=download&id=1kVl_xRN3v4C7beePgJeqqpZlHD4PIjKt",
+      "duracion": null
+    },
+    {
+      "id": "pedro-rodr-guez-la-mula-de-genaro",
+      "titulo": "La Mula De Genaro",
+      "artista": "Pedro Rodríguez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1hhPdxZXGRCZo8hkamSkpCiIh6yrumaJF",
+      "audio": "https://drive.google.com/uc?export=download&id=1JFkuznSutoqMQvDmJ6_gMBjionDkZO7W",
+      "duracion": null
+    },
+    {
+      "id": "pedro-rodr-guez-garza-blanca",
+      "titulo": "Garza Blanca",
+      "artista": "Pedro Rodríguez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1hhPdxZXGRCZo8hkamSkpCiIh6yrumaJF",
+      "audio": "https://drive.google.com/uc?export=download&id=17-4diWRGYXUtKDJSJBNwToXDy8QL22WP",
+      "duracion": null
+    },
+    {
+      "id": "pedro-rodr-guez-venganza-de-amor",
+      "titulo": "Venganza De Amor",
+      "artista": "Pedro Rodríguez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1hhPdxZXGRCZo8hkamSkpCiIh6yrumaJF",
+      "audio": "https://drive.google.com/uc?export=download&id=1yrZf7e8uRTau6xC-n3mYG0luRkBY7nh1",
+      "duracion": null
+    },
+    {
+      "id": "pedro-rodr-guez-mis-penas-fueron-tus-glorias",
+      "titulo": "Mis Penas Fueron Tus Glorias",
+      "artista": "Pedro Rodríguez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1hhPdxZXGRCZo8hkamSkpCiIh6yrumaJF",
+      "audio": "https://drive.google.com/uc?export=download&id=1b8vcw8uSRan9eteAuWuIqfmzCqgKvPi7",
+      "duracion": null
+    },
+    {
+      "id": "pedro-rodr-guez-tu-regreso-al-caser-o",
+      "titulo": "Tu Regreso Al Caserío",
+      "artista": "Pedro Rodríguez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1hhPdxZXGRCZo8hkamSkpCiIh6yrumaJF",
+      "audio": "https://drive.google.com/uc?export=download&id=1R6WrXNrA93WiaWYoFAZx6N7Fa_mrDNmu",
+      "duracion": null
+    },
+    {
+      "id": "pedro-rodr-guez-mujer-mentirosa",
+      "titulo": "Mujer Mentirosa",
+      "artista": "Pedro Rodríguez",
+      "imagen": "https://drive.google.com/uc?export=download&id=1hhPdxZXGRCZo8hkamSkpCiIh6yrumaJF",
+      "audio": "https://drive.google.com/uc?export=download&id=1vn-HtXKvlV-6vNVV5muCG_8FsX-XaXT1",
+      "duracion": null
+    },
+    {
+      "id": "deivi-bordones-la-muerte-del-caporal",
+      "titulo": "La Muerte del Caporal",
+      "artista": "Deivi Bordones",
+      "imagen": "https://drive.google.com/uc?export=download&id=1kBsU4MqKbuhtuImEmm_tOUWXVax1wlij",
+      "audio": "https://drive.google.com/uc?export=download&id=158DSUs5LjEQ_1tM_HBV3UrHozXm3Dd5y",
+      "duracion": null
+    },
+    {
+      "id": "deivi-bordones-mundo-loco",
+      "titulo": "Mundo Loco",
+      "artista": "Deivi Bordones",
+      "imagen": "https://drive.google.com/uc?export=download&id=1kBsU4MqKbuhtuImEmm_tOUWXVax1wlij",
+      "audio": "https://drive.google.com/uc?export=download&id=1g9dW_8LPdxVaFS-WvsweXd9ugXdyL5Yd",
+      "duracion": null
+    },
+    {
+      "id": "deivi-bordones-bajo-la-luna-menguada",
+      "titulo": "Bajo La Luna Menguada",
+      "artista": "Deivi Bordones",
+      "imagen": "https://drive.google.com/uc?export=download&id=1kBsU4MqKbuhtuImEmm_tOUWXVax1wlij",
+      "audio": "https://drive.google.com/uc?export=download&id=1shqa6Wgm-wBPAvAbR2ZTVdtiNcRYMBuB",
+      "duracion": null
+    },
+    {
+      "id": "deivi-bordones-sincera-noble-y-bonita",
+      "titulo": "Sincera, Noble y Bonita",
+      "artista": "Deivi Bordones",
+      "imagen": "https://drive.google.com/uc?export=download&id=1kBsU4MqKbuhtuImEmm_tOUWXVax1wlij",
+      "audio": "https://drive.google.com/uc?export=download&id=1TvnlZhzDQCzQfXYCPwmM6GkL7Zicr3nq",
+      "duracion": null
+    },
+    {
+      "id": "deivi-bordones-voy-a-tener-que-olvidarla",
+      "titulo": "Voy A Tener Que Olvidarla",
+      "artista": "Deivi Bordones",
+      "imagen": "https://drive.google.com/uc?export=download&id=1kBsU4MqKbuhtuImEmm_tOUWXVax1wlij",
+      "audio": "https://drive.google.com/uc?export=download&id=1T2X5OmVRtStmKuhS6ga815l4kUrt8b_G",
+      "duracion": null
+    },
+    {
+      "id": "vitico-castillo-no-me-corra-cantinero",
+      "titulo": "No Me Corra Cantinero",
+      "artista": "Vitico Castillo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1QruzT66JwO9OADAbHz9RAj3Q22D_PsoC",
+      "audio": "https://drive.google.com/uc?export=download&id=1W5_RdLBJ09qgQw7N7YbHi42Ubl5z29HC",
+      "duracion": null
+    },
+    {
+      "id": "vitico-castillo-si-no-regresas",
+      "titulo": "Si No Regresas",
+      "artista": "Vitico Castillo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1QruzT66JwO9OADAbHz9RAj3Q22D_PsoC",
+      "audio": "https://drive.google.com/uc?export=download&id=1Bu11SbkYpgOqOd0EmksHYAQWYHjClxvc",
+      "duracion": null
+    },
+    {
+      "id": "vitico-castillo-como-hago-pa-no-quererte",
+      "titulo": "Cómo Hago Pa' No Quererte",
+      "artista": "Vitico Castillo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1QruzT66JwO9OADAbHz9RAj3Q22D_PsoC",
+      "audio": "https://drive.google.com/uc?export=download&id=1JHJvSsRJKAJzNVz50wDyLTAyYC63ix8O",
+      "duracion": null
+    },
+    {
+      "id": "vitico-castillo-corazon-de-concreto",
+      "titulo": "Corazón De Concreto",
+      "artista": "Vitico Castillo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1QruzT66JwO9OADAbHz9RAj3Q22D_PsoC",
+      "audio": "https://drive.google.com/uc?export=download&id=1oeHfqwqpwzNqicy05g2MI7QPSSjPQ1bm",
+      "duracion": null
+    },
+    {
+      "id": "vitico-castillo-no-hay-una-vaina-mas-criolla",
+      "titulo": "No Hay Una Vaina Más Criolla",
+      "artista": "Vitico Castillo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1QruzT66JwO9OADAbHz9RAj3Q22D_PsoC",
+      "audio": "https://drive.google.com/uc?export=download&id=1CXBJlqc6bRgKgqt8onHkubmD_ctiwN1c",
+      "duracion": null
+    },
+    {
+      "id": "vitico-castillo-para-que-voy-a-mentir",
+      "titulo": "Para Que Voy A Mentir",
+      "artista": "Vitico Castillo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1QruzT66JwO9OADAbHz9RAj3Q22D_PsoC",
+      "audio": "https://drive.google.com/uc?export=download&id=1jp1ItA4sxxQvOSyZfCA6b_5-Wqijc9_n",
+      "duracion": null
+    },
+    {
+      "id": "vitico-castillo-soltero-no-tiene-peo",
+      "titulo": "Soltero No Tiene Peo",
+      "artista": "Vitico Castillo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1QruzT66JwO9OADAbHz9RAj3Q22D_PsoC",
+      "audio": "https://drive.google.com/uc?export=download&id=14-631dG1h-xEEPSCcaWXW9oIPPtPOgR0",
+      "duracion": null
+    },
+    {
+      "id": "vitico-castillo-son-muy-pocos-los-amigos",
+      "titulo": "Son Muy Pocos Los Amigos",
+      "artista": "Vitico Castillo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1QruzT66JwO9OADAbHz9RAj3Q22D_PsoC",
+      "audio": "https://drive.google.com/uc?export=download&id=1o8LwF6PX3BjiH1qNz1XlwQ6K4yukQBjE",
+      "duracion": null
+    },
+    {
+      "id": "vitico-castillo-tengo-el-corazon-curao",
+      "titulo": "Tengo El Corazón Curao",
+      "artista": "Vitico Castillo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1QruzT66JwO9OADAbHz9RAj3Q22D_PsoC",
+      "audio": "https://drive.google.com/uc?export=download&id=1VSqU-o_iqdn61l2v0a-B7C8jjaHw_l72",
+      "duracion": null
+    },
+    {
+      "id": "vitico-castillo-no-mata-pero-aporrea",
+      "titulo": "No Mata Pero Aporrea",
+      "artista": "Vitico Castillo",
+      "imagen": "https://drive.google.com/uc?export=download&id=1QruzT66JwO9OADAbHz9RAj3Q22D_PsoC",
+      "audio": "https://drive.google.com/uc?export=download&id=1CP3A2jySuHwqerLgJFQQI3n1C6AOoGKd",
+      "duracion": null
+    },
+    {
+      "id": "rafael-perez-el-coplero-de-barinas-me-hackearon-el-whatsapp",
+      "titulo": "Me Hackearon el WhatsApp",
+      "artista": "Rafael Pérez El Coplero De Barinas",
+      "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
+      "audio": "https://drive.google.com/uc?export=download&id=1_wrBOlSQ28e1RwcxkWLfAScdlBMWZkyX",
+      "duracion": null
+    },
+    {
+      "id": "rafael-perez-el-coplero-de-barinas-buscando-un-amor",
+      "titulo": "Buscando Un Amor",
+      "artista": "Rafael Pérez El Coplero De Barinas",
+      "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
+      "audio": "https://drive.google.com/uc?export=download&id=1alfWYhhHrpuFSARU9V8LsGTqiMn_oFM1",
+      "duracion": null
+    },
+    {
+      "id": "rafael-perez-el-coplero-de-barinas-la-camita-de-madera",
+      "titulo": "La Camita De Madera",
+      "artista": "Rafael Pérez El Coplero De Barinas",
+      "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
+      "audio": "https://drive.google.com/uc?export=download&id=10dX_n9kcPcGey1kD47FTDOf7FFjvOaiL",
+      "duracion": null
+    },
+    {
+      "id": "rafael-perez-el-coplero-de-barinas-lo-amargo-de-su-rechazo",
+      "titulo": "Lo Amargo De Su Rechazo",
+      "artista": "Rafael Pérez El Coplero De Barinas",
+      "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
+      "audio": "https://drive.google.com/uc?export=download&id=19OKayj23GUGVrBXQM7Sc4wx2yxSvJxM-",
+      "duracion": null
+    },
+    {
+      "id": "rafael-perez-el-coplero-de-barinas-pa-que-lo-bailen",
+      "titulo": "Pa' Que Lo Bailen",
+      "artista": "Rafael Pérez El Coplero De Barinas",
+      "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
+      "audio": "https://drive.google.com/uc?export=download&id=1Hh0NRBGUdGTgd-ciOPhrhgrnYr76FI3o",
+      "duracion": null
+    },
+    {
+      "id": "rafael-perez-el-coplero-de-barinas-puno-e-diente",
+      "titulo": "Puño E' Diente",
+      "artista": "Rafael Pérez El Coplero De Barinas",
+      "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
+      "audio": "https://drive.google.com/uc?export=download&id=1_WzEgQvZZUL5-jeDvkz89hzhIISmr3rg",
+      "duracion": null
+    },
+    {
+      "id": "rafael-perez-el-coplero-de-barinas-tu-alma-y-la-mia",
+      "titulo": "Tu Alma Y La Mía",
+      "artista": "Rafael Pérez El Coplero De Barinas",
+      "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
+      "audio": "https://drive.google.com/uc?export=download&id=1yEjUhjMqRttzxAebcfuxDl_EwutABaJi",
+      "duracion": null
+    },
+    {
+      "id": "rafael-perez-el-coplero-de-barinas-un-pavo-y-un-llanero",
+      "titulo": "Un Pavo Y Un Llanero",
+      "artista": "Rafael Pérez El Coplero De Barinas",
+      "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
+      "audio": "https://drive.google.com/uc?export=download&id=1Py5UbK00W8AYUo_IFyNw2FQ2JmD4aewe",
+      "duracion": null
+    },
+    {
+      "id": "rafael-perez-el-coplero-de-barinas-mi-canto-es-la-escencia-criolla",
+      "titulo": "Mi Canto Es La Escencia Criolla",
+      "artista": "Rafael Pérez El Coplero De Barinas",
+      "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
+      "audio": "https://drive.google.com/uc?export=download&id=1HLFK712rgRujCVN0c5eSSN9i62BBsgXx",
+      "duracion": null
+    },
+    {
+      "id": "rafael-perez-el-coplero-de-barinas-la-herencia-de-puno-e-diente",
+      "titulo": "La Herencia De Puño E' Diente",
+      "artista": "Rafael Pérez El Coplero De Barinas",
+      "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
+      "audio": "https://drive.google.com/uc?export=download&id=1taZDhLQ8gtS9PGjbyuldHzMWzUfvwBw7",
+      "duracion": null
     }
   ]
 }

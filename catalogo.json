@@ -4085,6 +4085,22 @@
       "imagen": "https://drive.google.com/uc?export=download&id=1dfWGbcV2DIKrpdM-OJNQtvaU7JLM8zPL",
       "audio": "https://drive.google.com/uc?export=download&id=1taZDhLQ8gtS9PGjbyuldHzMWzUfvwBw7",
       "duracion": null
+    },
+    {
+      "id": "pedro_zapata_un_24_de_junio",
+      "titulo": "Un 24 de Junio",
+      "artista": "Pedro Zapata",
+      "imagen": "https://drive.google.com/uc?export=download&id=1_HRMMhMPvm576-Cpu04_0UvPXANEopcm",
+      "url": "https://drive.google.com/uc?export=download&id=14vN0BOYxzTKnYhgdkv7vCraj64GcALpd",
+      "audio": "https://drive.google.com/uc?export=download&id=14vN0BOYxzTKnYhgdkv7vCraj64GcALpd"
+    },
+    {
+      "id": "pedro_zapata_tuya_es_la_culpa",
+      "titulo": "Tuya Es La Culpa",
+      "artista": "Pedro Zapata",
+      "imagen": "https://drive.google.com/uc?export=download&id=1pbFmac4hs_dnpdTGOTNZQ4qMfUemfJL1",
+      "url": "https://drive.google.com/uc?export=download&id=1QXmfSOea0NDwjDVQgYIwospL79-jQhU6",
+      "audio": "https://drive.google.com/uc?export=download&id=1QXmfSOea0NDwjDVQgYIwospL79-jQhU6"
     }
   ]
 }

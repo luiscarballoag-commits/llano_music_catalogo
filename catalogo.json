@@ -4189,6 +4189,54 @@
       "imagen": "https://drive.google.com/uc?export=download&id=1FQeQU6f4dmIzIpCxhSJXH-Y5WU_5ojsE",
       "url": "https://drive.google.com/uc?export=download&id=1baQooPirDHG7dcyg2k_lh_kikEHc8bzz",
       "audio": "https://drive.google.com/uc?export=download&id=1baQooPirDHG7dcyg2k_lh_kikEHc8bzz"
+    },
+    {
+      "id": "juan_mendoza_el_corrio_de_la_tigra",
+      "titulo": "El Corrío de La Tigra",
+      "artista": "Juan Mendoza",
+      "imagen": "assets/images/artistas/Juan_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=15jxxI03bnUCuRroMQPDXxVsTru-nRd_6",
+      "audio": "https://drive.google.com/uc?export=download&id=15jxxI03bnUCuRroMQPDXxVsTru-nRd_6"
+    },
+    {
+      "id": "juan_mendoza_la_conoci_en_el_tranquero",
+      "titulo": "La Conocí En El Tranquero",
+      "artista": "Juan Mendoza",
+      "imagen": "assets/images/artistas/Juan_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=1rN7h-ZA5zcnEySbQ6u5jBBz0peTZYCGJ",
+      "audio": "https://drive.google.com/uc?export=download&id=1rN7h-ZA5zcnEySbQ6u5jBBz0peTZYCGJ"
+    },
+    {
+      "id": "juan_mendoza_mi_caballo_es_una_estrella",
+      "titulo": "Mi Caballo Es Una Estrella",
+      "artista": "Juan Mendoza",
+      "imagen": "assets/images/artistas/Juan_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=1szdLef-Q63IPPNzqj2Zbw2nVse0rau4E",
+      "audio": "https://drive.google.com/uc?export=download&id=1szdLef-Q63IPPNzqj2Zbw2nVse0rau4E"
+    },
+    {
+      "id": "juan_mendoza_recuerdos_llano_y_sentimientos",
+      "titulo": "Recuerdos, Llano Y Sentimientos",
+      "artista": "Juan Mendoza",
+      "imagen": "assets/images/artistas/Juan_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=1_x4rVA6jh1xdc6p9nfVfVZX_lh7eRQfe",
+      "audio": "https://drive.google.com/uc?export=download&id=1_x4rVA6jh1xdc6p9nfVfVZX_lh7eRQfe"
+    },
+    {
+      "id": "juan_mendoza_rio_guanare_eres_testigo",
+      "titulo": "Rio Guanare Eres Testigo",
+      "artista": "Juan Mendoza",
+      "imagen": "assets/images/artistas/Juan_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=1xeNGT2tFaw6vPQza8WKiRxHcgCa9EoTO",
+      "audio": "https://drive.google.com/uc?export=download&id=1xeNGT2tFaw6vPQza8WKiRxHcgCa9EoTO"
+    },
+    {
+      "id": "juan_mendoza_serenata_en_tu_ventana",
+      "titulo": "Serenata En Tu Ventana",
+      "artista": "Juan Mendoza",
+      "imagen": "assets/images/artistas/Juan_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=1E7XDxhFfoqlN63h8kYomSMNtPOr7E9ZT",
+      "audio": "https://drive.google.com/uc?export=download&id=1E7XDxhFfoqlN63h8kYomSMNtPOr7E9ZT"
     }
   ]
 }

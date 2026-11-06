@@ -4301,6 +4301,51 @@
       "imagen": "assets/images/artistas/Jose_Mendoza.png",
       "url": "https://drive.google.com/uc?export=download&id=1T_wwnU9uBs4iAw0Adsyn1q15mnbPOZow",
       "audio": "https://drive.google.com/uc?export=download&id=1T_wwnU9uBs4iAw0Adsyn1q15mnbPOZow"
+    },
+    {
+      "id": "simon_aular_amor_de_mi_alma",
+      "titulo": "Amor De Mi Alma",
+      "artista": "Simón Aular",
+      "imagen": "https://drive.google.com/uc?export=download&id=11lvVTS3v71gU9OObPB2-KdRisOoe9hgY",
+      "url": "https://drive.google.com/uc?export=download&id=1qyHjEDcMI0Uy29KsmKP4qax4QeYbjAXg",
+      "audio": "https://drive.google.com/uc?export=download&id=1qyHjEDcMI0Uy29KsmKP4qax4QeYbjAXg",
+      "duracion": null
+    },
+    {
+      "id": "simon_aular_mi_guacharaca",
+      "titulo": "Mi Guacharaca",
+      "artista": "Simón Aular",
+      "imagen": "https://drive.google.com/uc?export=download&id=11lvVTS3v71gU9OObPB2-KdRisOoe9hgY",
+      "url": "https://drive.google.com/uc?export=download&id=1EUknM6QO3Z2yOEPqVACg6pZ1XziaYIBL",
+      "audio": "https://drive.google.com/uc?export=download&id=1EUknM6QO3Z2yOEPqVACg6pZ1XziaYIBL",
+      "duracion": null
+    },
+    {
+      "id": "simon_aular_amor_maternal",
+      "titulo": "Amor Maternal",
+      "artista": "Simón Aular",
+      "imagen": "https://drive.google.com/uc?export=download&id=11lvVTS3v71gU9OObPB2-KdRisOoe9hgY",
+      "url": "https://drive.google.com/uc?export=download&id=1i0ktRRPO4kpC9hLlI2FRKHvxUEZojN7U",
+      "audio": "https://drive.google.com/uc?export=download&id=1i0ktRRPO4kpC9hLlI2FRKHvxUEZojN7U",
+      "duracion": null
+    },
+    {
+      "id": "simon_aular_tristeza_en_mi_ranchito",
+      "titulo": "Tristeza En Mi Ranchito",
+      "artista": "Simón Aular",
+      "imagen": "https://drive.google.com/uc?export=download&id=11lvVTS3v71gU9OObPB2-KdRisOoe9hgY",
+      "url": "https://drive.google.com/uc?export=download&id=14nD_6Yc5j1ovCcNrp9MnEdxhCMn0Sg3G",
+      "audio": "https://drive.google.com/uc?export=download&id=14nD_6Yc5j1ovCcNrp9MnEdxhCMn0Sg3G",
+      "duracion": null
+    },
+    {
+      "id": "simon_aular_una_casita_en_el_aire",
+      "titulo": "Una Casita En El Aire",
+      "artista": "Simón Aular",
+      "imagen": "https://drive.google.com/uc?export=download&id=11lvVTS3v71gU9OObPB2-KdRisOoe9hgY",
+      "url": "https://drive.google.com/uc?export=download&id=19AaTUO5i0YbEOA7Co8pZ6vUnkSu-W_g4",
+      "audio": "https://drive.google.com/uc?export=download&id=19AaTUO5i0YbEOA7Co8pZ6vUnkSu-W_g4",
+      "duracion": null
     }
   ]
 }

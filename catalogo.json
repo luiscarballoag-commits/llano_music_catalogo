@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-05",
+  "actualizado": "2026-11-06",
   "albumes": [
     {
       "id": "album_criollo_001",
@@ -4345,6 +4345,87 @@
       "imagen": "https://drive.google.com/uc?export=download&id=11lvVTS3v71gU9OObPB2-KdRisOoe9hgY",
       "url": "https://drive.google.com/uc?export=download&id=19AaTUO5i0YbEOA7Co8pZ6vUnkSu-W_g4",
       "audio": "https://drive.google.com/uc?export=download&id=19AaTUO5i0YbEOA7Co8pZ6vUnkSu-W_g4",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_dolores_padron",
+      "titulo": "Dolores Padrón",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=1OBd0zI6WKZl3q1c3pITWw04nL1qDtOjv",
+      "audio": "https://drive.google.com/uc?export=download&id=1OBd0zI6WKZl3q1c3pITWw04nL1qDtOjv",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_el_caiman_chucuto",
+      "titulo": "El Caimán Chucuto",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=1ICFemrpnCvI4B5YNnV39lASbOdkGYJVq",
+      "audio": "https://drive.google.com/uc?export=download&id=1ICFemrpnCvI4B5YNnV39lASbOdkGYJVq",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_el_dia_de_mi_confecion",
+      "titulo": "El Día De Mi Confecion",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=14VF1pDyjNGkvPjVPdwSu4o1cOL7Y-GCy",
+      "audio": "https://drive.google.com/uc?export=download&id=14VF1pDyjNGkvPjVPdwSu4o1cOL7Y-GCy",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_el_rueda_pelotas",
+      "titulo": "El Rueda Pelotas",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=1OxNQopiXUz-zgIMrEa_3_ewQ6hMWt9XJ",
+      "audio": "https://drive.google.com/uc?export=download&id=1OxNQopiXUz-zgIMrEa_3_ewQ6hMWt9XJ",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_el_tigre_caso_la_vaquira",
+      "titulo": "El Tigre Caso La Vaquira",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=1Y6p5sZ1KemJ60DwdYHajELiIXU444EMh",
+      "audio": "https://drive.google.com/uc?export=download&id=1Y6p5sZ1KemJ60DwdYHajELiIXU444EMh",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_sabanas_de_canafistola",
+      "titulo": "Sabanas de Cañafistola",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=17qiUiJzm4oZweHbUNSmL52Q70vlkwUxr",
+      "audio": "https://drive.google.com/uc?export=download&id=17qiUiJzm4oZweHbUNSmL52Q70vlkwUxr",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_el_cazador_de_conejos",
+      "titulo": "El Cazador De Conejos",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=1B0l1OPjsdQZVfzm6qkLph4-ZmGd7Vvla",
+      "audio": "https://drive.google.com/uc?export=download&id=1B0l1OPjsdQZVfzm6qkLph4-ZmGd7Vvla",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_el_juego_del_escondio",
+      "titulo": "El Juego Del Escondio",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=1VcGVAneYPheObmUOLrqHJG0ez9gbOf1Q",
+      "audio": "https://drive.google.com/uc?export=download&id=1VcGVAneYPheObmUOLrqHJG0ez9gbOf1Q",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_la_familia_de_don_pedro",
+      "titulo": "La Familia De Don Pedro",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=1injZH3rDnBGyul9Iy7qmOuD7d1m896WB",
+      "audio": "https://drive.google.com/uc?export=download&id=1injZH3rDnBGyul9Iy7qmOuD7d1m896WB",
       "duracion": null
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-09-28",
+  "actualizado": "2026-11-05",
   "albumes": [
     {
       "id": "album_criollo_001",
@@ -4237,6 +4237,70 @@
       "imagen": "assets/images/artistas/Juan_Mendoza.png",
       "url": "https://drive.google.com/uc?export=download&id=1E7XDxhFfoqlN63h8kYomSMNtPOr7E9ZT",
       "audio": "https://drive.google.com/uc?export=download&id=1E7XDxhFfoqlN63h8kYomSMNtPOr7E9ZT"
+    },
+    {
+      "id": "jose_mendoza_te_di_mi_amor",
+      "titulo": "Te Di Mi Amor",
+      "artista": "José Mendoza",
+      "imagen": "assets/images/artistas/Jose_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=15CSiWqYOz7_ZjWsUF8pu6ax_zHgQenuc",
+      "audio": "https://drive.google.com/uc?export=download&id=15CSiWqYOz7_ZjWsUF8pu6ax_zHgQenuc"
+    },
+    {
+      "id": "jose_mendoza_cojedes_puerta_de_llano",
+      "titulo": "Cojedes Puerta De Llano",
+      "artista": "José Mendoza",
+      "imagen": "assets/images/artistas/Jose_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=11u9OOh9nHYNcn34XXEOmoamqR5OafD8n",
+      "audio": "https://drive.google.com/uc?export=download&id=11u9OOh9nHYNcn34XXEOmoamqR5OafD8n"
+    },
+    {
+      "id": "jose_mendoza_dueno_de_ti",
+      "titulo": "Dueño De Ti",
+      "artista": "José Mendoza",
+      "imagen": "assets/images/artistas/Jose_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=1LmIL1j8luMijSsSHLWNB0T4NmrEOpn9U",
+      "audio": "https://drive.google.com/uc?export=download&id=1LmIL1j8luMijSsSHLWNB0T4NmrEOpn9U"
+    },
+    {
+      "id": "jose_mendoza_el_gorrion",
+      "titulo": "El Gorrión",
+      "artista": "José Mendoza",
+      "imagen": "assets/images/artistas/Jose_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=1-nuZ88WB-TZbMI3hLPZym_Sp4mpfh0Dh",
+      "audio": "https://drive.google.com/uc?export=download&id=1-nuZ88WB-TZbMI3hLPZym_Sp4mpfh0Dh"
+    },
+    {
+      "id": "jose_mendoza_mi_dilema",
+      "titulo": "Mi Dilema",
+      "artista": "José Mendoza",
+      "imagen": "assets/images/artistas/Jose_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=12unbJ6L7wpjx5CSvZUXoNMIRWYk46_Sy",
+      "audio": "https://drive.google.com/uc?export=download&id=12unbJ6L7wpjx5CSvZUXoNMIRWYk46_Sy"
+    },
+    {
+      "id": "jose_mendoza_mi_vida_sin_ti",
+      "titulo": "Mi Vida Sin Ti",
+      "artista": "José Mendoza",
+      "imagen": "assets/images/artistas/Jose_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=1me4q3tzFZuWa2oTthg5TscOPSqFFtnS5",
+      "audio": "https://drive.google.com/uc?export=download&id=1me4q3tzFZuWa2oTthg5TscOPSqFFtnS5"
+    },
+    {
+      "id": "jose_mendoza_triste_y_solo",
+      "titulo": "Triste y Solo",
+      "artista": "José Mendoza",
+      "imagen": "assets/images/artistas/Jose_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=1fbfL7AtG-mBwItjOiHYb15zcngjKlAK9",
+      "audio": "https://drive.google.com/uc?export=download&id=1fbfL7AtG-mBwItjOiHYb15zcngjKlAK9"
+    },
+    {
+      "id": "jose_mendoza_un_regalo_de_mi_patria",
+      "titulo": "Un Regalo De Mi Patria",
+      "artista": "José Mendoza",
+      "imagen": "assets/images/artistas/Jose_Mendoza.png",
+      "url": "https://drive.google.com/uc?export=download&id=1T_wwnU9uBs4iAw0Adsyn1q15mnbPOZow",
+      "audio": "https://drive.google.com/uc?export=download&id=1T_wwnU9uBs4iAw0Adsyn1q15mnbPOZow"
     }
   ]
 }

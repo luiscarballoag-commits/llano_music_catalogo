@@ -4376,11 +4376,11 @@
     },
     {
       "id": "santiago_rojas_el_rueda_pelotas",
-      "titulo": "El Rueda Pelotas",
+      "titulo": "El Rueda Pelota",
       "artista": "Santiago Rojas",
       "imagen": "assets/images/clasicos/Santiago_Rojas.png",
-      "url": "https://drive.google.com/uc?export=download&id=1OxNQopiXUz-zgIMrEa_3_ewQ6hMWt9XJ",
-      "audio": "https://drive.google.com/uc?export=download&id=1OxNQopiXUz-zgIMrEa_3_ewQ6hMWt9XJ",
+      "url": "https://drive.google.com/uc?export=download&id=1OxNQopiXUz-zgIMrEa_3_0ewQ6hMWt9XJ",
+      "audio": "https://drive.google.com/uc?export=download&id=1OxNQopiXUz-zgIMrEa_3_0ewQ6hMWt9XJ",
       "duracion": null
     },
     {
@@ -4426,6 +4426,24 @@
       "imagen": "assets/images/clasicos/Santiago_Rojas.png",
       "url": "https://drive.google.com/uc?export=download&id=1injZH3rDnBGyul9Iy7qmOuD7d1m896WB",
       "audio": "https://drive.google.com/uc?export=download&id=1injZH3rDnBGyul9Iy7qmOuD7d1m896WB",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_el_jardinero_del_coronel",
+      "titulo": "El Jardinero del Coronel",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=1QqC_IdANKnCCuFORAUheifuvxfQmJqNA",
+      "audio": "https://drive.google.com/uc?export=download&id=1QqC_IdANKnCCuFORAUheifuvxfQmJqNA",
+      "duracion": null
+    },
+    {
+      "id": "santiago_rojas_me_meti_bajo_la_cama",
+      "titulo": "Me Metí Bajo La Cama",
+      "artista": "Santiago Rojas",
+      "imagen": "assets/images/clasicos/Santiago_Rojas.png",
+      "url": "https://drive.google.com/uc?export=download&id=1dhV6o2VPHN4GeRum53QqNFkcHCA68oIm",
+      "audio": "https://drive.google.com/uc?export=download&id=1dhV6o2VPHN4GeRum53QqNFkcHCA68oIm",
       "duracion": null
     }
   ]

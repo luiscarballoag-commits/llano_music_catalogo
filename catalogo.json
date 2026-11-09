@@ -4557,6 +4557,30 @@
       "imagen": "assets/images/artistas/Juan_Herrera.png",
       "audio": "https://drive.google.com/uc?export=download&id=1RXzmFkRlOkppx-Dco38AemnNTZRaJCsO",
       "duracion": null
+    },
+    {
+      "id": "jesus_daniel_quintero_me_la_bebi_despechao",
+      "titulo": "Me La Bebi Despechao",
+      "artista": "Jesús Daniel Quintero",
+      "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP",
+      "audio": "https://drive.google.com/uc?export=download&id=1lgzXe6XNyuWiDRQ9zuSPZS3JTfFbY1j8",
+      "duracion": null
+    },
+    {
+      "id": "jesus_daniel_quintero_mi_dios_se_enfado_conmigo",
+      "titulo": "Mi Dios Se Enfado Conmigo",
+      "artista": "Jesús Daniel Quintero",
+      "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP",
+      "audio": "https://drive.google.com/uc?export=download&id=1tpes5_dCP3TbjfbEp5Som-jordGgdlVl",
+      "duracion": null
+    },
+    {
+      "id": "jesus_daniel_quintero_pa_los_habladores_de_paja",
+      "titulo": "Pa' Los Habladores De Paja",
+      "artista": "Jesús Daniel Quintero",
+      "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP",
+      "audio": "https://drive.google.com/uc?export=download&id=1x515xEsfYiwqHNAAReq8SAhGNvLWSco0",
+      "duracion": null
     }
   ]
 }

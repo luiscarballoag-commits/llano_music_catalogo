@@ -4509,6 +4509,30 @@
       "audio": "https://drive.google.com/uc?export=download&id=10DVCQCDyTDGl-1SlAMX0B3cJy7ljWVkx",
       "imagen": "https://drive.google.com/uc?export=download&id=1ajyojLn9ugrDBi54LUtVQ5gG2wqx1ivg",
       "duracion": null
+    },
+    {
+      "id": "miguelito_diaz_la_luna_y_ella",
+      "titulo": "La Luna Y Ella",
+      "artista": "Miguelito Díaz",
+      "imagen": "assets/images/artistas/Miguelito_Diaz.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1TpmH3ItRc41RNjLo3Euxus5aY-4jkfY1",
+      "duracion": null
+    },
+    {
+      "id": "miguelito_diaz_los_ltimos_toros",
+      "titulo": "Los Últimos Toros",
+      "artista": "Miguelito Díaz",
+      "imagen": "assets/images/artistas/Miguelito_Diaz.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1_BsdThImdpy8c4VrSss-TUqyWbYrtLZ2",
+      "duracion": null
+    },
+    {
+      "id": "miguelito_diaz_la_voz_de_siempre",
+      "titulo": "La Voz De Siempre",
+      "artista": "Miguelito Díaz",
+      "imagen": "assets/images/artistas/Miguelito_Diaz.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1yrqkhiG3KWpwFB9TPcB6xWhl4hlPaXda",
+      "duracion": null
     }
   ]
 }

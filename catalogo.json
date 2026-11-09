@@ -4477,6 +4477,38 @@
       "imagen": "https://drive.google.com/uc?export=download&id=1P9bfeyHoWU2V0cM4UxzgC9MK_s0fMnu7",
       "url": "https://drive.google.com/uc?export=download&id=1EG9iS_QGh8h-A59s8auVwEz_Y24rtlsg",
       "audio": "https://drive.google.com/uc?export=download&id=1EG9iS_QGh8h-A59s8auVwEz_Y24rtlsg"
+    },
+    {
+      "id": "milena_benitez_encontre_mi_coleador",
+      "titulo": "Encontre Mi Coleador",
+      "artista": "Milena Benítez",
+      "audio": "https://drive.google.com/uc?export=download&id=1EOgftoz892rf54XyS7VEhXnoLJDWTsZO",
+      "imagen": "assets/images/artistas/Milena_Benitez.png",
+      "duracion": null
+    },
+    {
+      "id": "milena_benitez_loco_de_amor",
+      "titulo": "Loco De Amor",
+      "artista": "Milena Benítez",
+      "audio": "https://drive.google.com/uc?export=download&id=1wfezRsrqEXGklEFf_YChHnvQojV4fv2S",
+      "imagen": "assets/images/artistas/Milena_Benitez.png",
+      "duracion": null
+    },
+    {
+      "id": "milena_benitez_ven_a_mis_brazos",
+      "titulo": "Ven A Mis Brazos",
+      "artista": "Milena Benítez",
+      "audio": "https://drive.google.com/uc?export=download&id=1lbsTj1jp_b3WBjZ7QnVxEzcIYI7BRCzO",
+      "imagen": "assets/images/artistas/Milena_Benitez.png",
+      "duracion": null
+    },
+    {
+      "id": "milena_benitez_dos_copleras_de_dos_patrias",
+      "titulo": "Dos Copleras De Dos Patrias",
+      "artista": "Milena Benítez",
+      "audio": "https://drive.google.com/uc?export=download&id=10DVCQCDyTDGl-1SlAMX0B3cJy7ljWVkx",
+      "imagen": "https://drive.google.com/uc?export=download&id=1ajyojLn9ugrDBi54LUtVQ5gG2wqx1ivg",
+      "duracion": null
     }
   ]
 }

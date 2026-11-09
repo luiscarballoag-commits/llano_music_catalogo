@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-06",
+  "actualizado": "2026-11-08",
   "albumes": [
     {
       "id": "album_criollo_001",
@@ -4445,6 +4445,38 @@
       "url": "https://drive.google.com/uc?export=download&id=1dhV6o2VPHN4GeRum53QqNFkcHCA68oIm",
       "audio": "https://drive.google.com/uc?export=download&id=1dhV6o2VPHN4GeRum53QqNFkcHCA68oIm",
       "duracion": null
+    },
+    {
+      "id": "mary_pacheco_como_yo_ninguna",
+      "titulo": "Cómo Yo Ninguna",
+      "artista": "Mary Pacheco",
+      "imagen": "https://drive.google.com/uc?export=download&id=1P9bfeyHoWU2V0cM4UxzgC9MK_s0fMnu7",
+      "url": "https://drive.google.com/uc?export=download&id=1OePNvZg4ZZRcc4-9hEIyTXnue-QqefSy",
+      "audio": "https://drive.google.com/uc?export=download&id=1OePNvZg4ZZRcc4-9hEIyTXnue-QqefSy"
+    },
+    {
+      "id": "mary_pacheco_extrana_sensacion",
+      "titulo": "Extraña Sensación",
+      "artista": "Mary Pacheco",
+      "imagen": "https://drive.google.com/uc?export=download&id=1P9bfeyHoWU2V0cM4UxzgC9MK_s0fMnu7",
+      "url": "https://drive.google.com/uc?export=download&id=1i7zlhgUqNhLkiLJvGDwP6Dfl9X8s4igy",
+      "audio": "https://drive.google.com/uc?export=download&id=1i7zlhgUqNhLkiLJvGDwP6Dfl9X8s4igy"
+    },
+    {
+      "id": "mary_pacheco_me_llaman_yo_no_me_llamo",
+      "titulo": "Me Llaman Yo No Me Llamo",
+      "artista": "Mary Pacheco",
+      "imagen": "https://drive.google.com/uc?export=download&id=1P9bfeyHoWU2V0cM4UxzgC9MK_s0fMnu7",
+      "url": "https://drive.google.com/uc?export=download&id=1kc5OXAOT1G7HjUNEa1NdmQUNCfvKmeMm",
+      "audio": "https://drive.google.com/uc?export=download&id=1kc5OXAOT1G7HjUNEa1NdmQUNCfvKmeMm"
+    },
+    {
+      "id": "mary_pacheco_soltera_y_empoderada",
+      "titulo": "Soltera Y Empoderada",
+      "artista": "Mary Pacheco",
+      "imagen": "https://drive.google.com/uc?export=download&id=1P9bfeyHoWU2V0cM4UxzgC9MK_s0fMnu7",
+      "url": "https://drive.google.com/uc?export=download&id=1EG9iS_QGh8h-A59s8auVwEz_Y24rtlsg",
+      "audio": "https://drive.google.com/uc?export=download&id=1EG9iS_QGh8h-A59s8auVwEz_Y24rtlsg"
     }
   ]
 }

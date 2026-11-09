@@ -4533,6 +4533,30 @@
       "imagen": "assets/images/artistas/Miguelito_Diaz.png",
       "audio": "https://drive.google.com/uc?export=download&id=1yrqkhiG3KWpwFB9TPcB6xWhl4hlPaXda",
       "duracion": null
+    },
+    {
+      "id": "juan_herrera_romance_en_el_rio_payara",
+      "titulo": "Romance en el Rio Payara",
+      "artista": "Juan Herrera",
+      "imagen": "assets/images/artistas/Juan_Herrera.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1l1q4b1BQMfiB5KamdzYPQYcWzomKimwI",
+      "duracion": null
+    },
+    {
+      "id": "juan_herrera_lo_que_el_viento_se_llev",
+      "titulo": "Lo Que El Viento Se Llevó",
+      "artista": "Juan Herrera",
+      "imagen": "assets/images/artistas/Juan_Herrera.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1fP5xOaUj4zUMfAfclT9ZxRjRweilZhin",
+      "duracion": null
+    },
+    {
+      "id": "juan_herrera_volv",
+      "titulo": "Volví",
+      "artista": "Juan Herrera",
+      "imagen": "assets/images/artistas/Juan_Herrera.png",
+      "audio": "https://drive.google.com/uc?export=download&id=1RXzmFkRlOkppx-Dco38AemnNTZRaJCsO",
+      "duracion": null
     }
   ]
 }

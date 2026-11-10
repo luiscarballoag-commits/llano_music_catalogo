@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-11-08",
+  "actualizado": "2026-11-09",
   "albumes": [
     {
       "id": "album_criollo_001",
@@ -4581,6 +4581,86 @@
       "imagen": "https://drive.google.com/uc?export=download&id=1mhqq4U8uMiBFR4mW60-SbufQSlrj3NDP",
       "audio": "https://drive.google.com/uc?export=download&id=1x515xEsfYiwqHNAAReq8SAhGNvLWSco0",
       "duracion": null
+    },
+    {
+      "id": "edgar_silva_asi_somos_en_cojedes",
+      "titulo": "Así Somos en Cojedes",
+      "artista": "Edgar Silva",
+      "imagen": "https://drive.google.com/uc?export=view&id=1Uv9O_xSD4lfs07-2V-dKzqlh3GrdDnjB",
+      "url": "https://drive.google.com/uc?export=download&id=1sbsgMJS8Y8agqyO9ZKph23JfPn1FsJ9g",
+      "audio": "https://drive.google.com/uc?export=download&id=1sbsgMJS8Y8agqyO9ZKph23JfPn1FsJ9g"
+    },
+    {
+      "id": "edgar_silva_el_gaban_de_moda",
+      "titulo": "El Gabán de Moda",
+      "artista": "Edgar Silva",
+      "imagen": "https://drive.google.com/uc?export=view&id=1Uv9O_xSD4lfs07-2V-dKzqlh3GrdDnjB",
+      "url": "https://drive.google.com/uc?export=download&id=1s1IZgM9IdMPODqEGbYDsgQlVrlHtt6gZ",
+      "audio": "https://drive.google.com/uc?export=download&id=1s1IZgM9IdMPODqEGbYDsgQlVrlHtt6gZ"
+    },
+    {
+      "id": "edgar_silva_el_muerto_parrandero",
+      "titulo": "El Muerto Parrandero",
+      "artista": "Edgar Silva",
+      "imagen": "https://drive.google.com/uc?export=view&id=1Uv9O_xSD4lfs07-2V-dKzqlh3GrdDnjB",
+      "url": "https://drive.google.com/uc?export=download&id=1LYZyDpBYyt-OfplnFEMKEcQa3XWAHCcP",
+      "audio": "https://drive.google.com/uc?export=download&id=1LYZyDpBYyt-OfplnFEMKEcQa3XWAHCcP"
+    },
+    {
+      "id": "edgar_silva_en_el_palo_de_merey",
+      "titulo": "En el Palo de Merey",
+      "artista": "Edgar Silva",
+      "imagen": "https://drive.google.com/uc?export=view&id=1Uv9O_xSD4lfs07-2V-dKzqlh3GrdDnjB",
+      "url": "https://drive.google.com/uc?export=download&id=1AhVaSxl_MRhItQ_xV5nqXMsKf3WBV4wD",
+      "audio": "https://drive.google.com/uc?export=download&id=1AhVaSxl_MRhItQ_xV5nqXMsKf3WBV4wD"
+    },
+    {
+      "id": "edgar_silva_esposa_ideal",
+      "titulo": "Esposa Ideal",
+      "artista": "Edgar Silva",
+      "imagen": "https://drive.google.com/uc?export=view&id=1Uv9O_xSD4lfs07-2V-dKzqlh3GrdDnjB",
+      "url": "https://drive.google.com/uc?export=download&id=1xvQ2OsAUwnSL0GLUzJuMg28gyxogG568",
+      "audio": "https://drive.google.com/uc?export=download&id=1xvQ2OsAUwnSL0GLUzJuMg28gyxogG568"
+    },
+    {
+      "id": "edgar_silva_el_tenor_y_el_veguero",
+      "titulo": "El Tenor y el Veguero",
+      "artista": "Edgar Silva",
+      "imagen": "https://drive.google.com/uc?export=view&id=1Uv9O_xSD4lfs07-2V-dKzqlh3GrdDnjB",
+      "url": "https://drive.google.com/uc?export=download&id=1ouVIHQBhC5t7irQUp4ahQ84pmlTqMQSJ",
+      "audio": "https://drive.google.com/uc?export=download&id=1ouVIHQBhC5t7irQUp4ahQ84pmlTqMQSJ"
+    },
+    {
+      "id": "edgar_silva_la_camisa_de_jose",
+      "titulo": "La Camisa de José",
+      "artista": "Edgar Silva",
+      "imagen": "https://drive.google.com/uc?export=view&id=1Uv9O_xSD4lfs07-2V-dKzqlh3GrdDnjB",
+      "url": "https://drive.google.com/uc?export=download&id=1B2kYWKrg1_3EmybxjKHcum8tS2ToDNvi",
+      "audio": "https://drive.google.com/uc?export=download&id=1B2kYWKrg1_3EmybxjKHcum8tS2ToDNvi"
+    },
+    {
+      "id": "edgar_silva_yo_no_naci_pa_sufrir",
+      "titulo": "Yo No Nací Pa' Sufrir",
+      "artista": "Edgar Silva",
+      "imagen": "https://drive.google.com/uc?export=view&id=1Uv9O_xSD4lfs07-2V-dKzqlh3GrdDnjB",
+      "url": "https://drive.google.com/uc?export=download&id=1qz7aE28JSoF2w8nJyWKTagcC2qEyaMxW",
+      "audio": "https://drive.google.com/uc?export=download&id=1qz7aE28JSoF2w8nJyWKTagcC2qEyaMxW"
+    },
+    {
+      "id": "edgar_silva_tiene_que_volve_a_nacer",
+      "titulo": "Tiene que Volve A Nacer",
+      "artista": "Edgar Silva",
+      "imagen": "https://drive.google.com/uc?export=view&id=1Uv9O_xSD4lfs07-2V-dKzqlh3GrdDnjB",
+      "url": "https://drive.google.com/uc?export=download&id=1uCGWJglM4V77YMbVWwxvErZfPfw_Vj6e",
+      "audio": "https://drive.google.com/uc?export=download&id=1uCGWJglM4V77YMbVWwxvErZfPfw_Vj6e"
+    },
+    {
+      "id": "edgar_silva_todavia_sueno_contigo",
+      "titulo": "Todavía Sueño Contigo",
+      "artista": "Edgar Silva",
+      "imagen": "https://drive.google.com/uc?export=view&id=1Uv9O_xSD4lfs07-2V-dKzqlh3GrdDnjB",
+      "url": "https://drive.google.com/uc?export=download&id=1VYbRIt45yunTmZSAZO7ohpFJGjbykGxI",
+      "audio": "https://drive.google.com/uc?export=download&id=1VYbRIt45yunTmZSAZO7ohpFJGjbykGxI"
     }
   ]
 }
